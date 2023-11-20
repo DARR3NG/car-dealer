@@ -1,0 +1,2235 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-10-14 14:32+0100\n"
+"PO-Revision-Date: 2023-10-14 14:37+0000\n"
+"Last-Translator: otmane elkastali <elkastaliotmane@gmail.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Translated-Using: django-rosetta 0.9.9\n"
+
+#: .\accounts\views.py:19 .\accounts\views.py:50
+msgid "auth_message_success"
+msgstr "You are know logged in."
+
+#: .\accounts\views.py:22
+msgid "auth_message_invalid_cred"
+msgstr "Invalid login credentials!"
+
+#: .\accounts\views.py:41
+msgid "register_username_exist"
+msgstr "Username already existes!"
+
+#: .\accounts\views.py:45
+msgid "register_email_exist"
+msgstr "Email already existes!"
+
+#: .\accounts\views.py:58
+msgid "register_password_not_match"
+msgstr "Passwords do not match !"
+
+#: .\accounts\views.py:77
+msgid "logout_success"
+msgstr "You are suuccesfully logged out"
+
+#: .\carhouse\settings.py:136
+msgid "English"
+msgstr "english"
+
+#: .\carhouse\settings.py:137
+msgid "French"
+msgstr "french"
+
+#: .\cars\models.py:57
+msgid "color"
+msgstr "Color"
+
+#: .\cars\models.py:59
+#, fuzzy
+#| msgid "Condition"
+msgid "condition"
+msgstr "Condition"
+
+#: .\cars\models.py:61
+msgid "description"
+msgstr "Designation"
+
+#: .\cars\models.py:66
+#, fuzzy
+#| msgid "Transmission"
+msgid "transmission"
+msgstr "Transmission"
+
+#: .\cars\models.py:67
+msgid "interior"
+msgstr "Interior"
+
+#: .\cars\models.py:72
+msgid "fuel_type"
+msgstr "Fuel Type"
+
+#: .\cars\models.py:75
+msgid "car_title"
+msgstr "Car Title"
+
+#: .\cars\models.py:76
+msgid "vin_no"
+msgstr "Vin No"
+
+#: .\cars\models.py:77
+msgid "state"
+msgstr "State"
+
+#: .\cars\models.py:78
+msgid "city"
+msgstr "City"
+
+#: .\cars\models.py:79
+msgid "model"
+msgstr "Model"
+
+#: .\cars\models.py:80
+msgid "year"
+msgstr "Year"
+
+#: .\cars\models.py:81
+msgid "engine"
+msgstr "Engine"
+
+#: .\cars\models.py:82
+msgid "doors"
+msgstr "Doors"
+
+#: .\cars\models.py:83
+msgid "passengers"
+msgstr "Passengers"
+
+#: .\cars\models.py:84
+msgid "price"
+msgstr "Price"
+
+#: .\cars\models.py:85
+msgid "car_photo"
+msgstr "Car Photo"
+
+#: .\cars\models.py:86
+msgid "car_photo_1"
+msgstr "Car Photo 1"
+
+#: .\cars\models.py:87
+msgid "car_photo_2"
+msgstr "Car Photo 2"
+
+#: .\cars\models.py:88
+msgid "car_photo_3 "
+msgstr "Car Photo 3 "
+
+#: .\cars\models.py:89
+msgid "car_photo_4"
+msgstr "Car Photo 4"
+
+#: .\cars\models.py:90
+msgid "features"
+msgstr "Features"
+
+#: .\cars\models.py:91
+msgid "body_style"
+msgstr "Body Style"
+
+#: .\cars\models.py:103
+msgid "miles"
+msgstr "Miles"
+
+#: .\cars\models.py:104
+msgid "milage"
+msgstr "Milage"
+
+#: .\cars\models.py:105
+msgid "no_of_owners"
+msgstr "No of Owners"
+
+#: .\cars\models.py:106
+msgid "is_featured"
+msgstr "Is Featured"
+
+#: .\cars\models.py:107 .\pages\models.py:20
+msgid "created_date"
+msgstr "Created Date"
+
+#: .\contacts\views.py:38
+msgid "inquiry_already"
+msgstr ""
+"You have already made an inquiry about this car. Please wait untile we get "
+"back to you."
+
+#: .\contacts\views.py:65
+msgid "inqiry_success"
+msgstr "Your request has been submitted, we will get back to you shortly."
+
+#: .\env\Lib\site-packages\ckeditor_uploader\forms.py:6
+msgid "Search files"
+msgstr "Search files"
+
+#: .\env\Lib\site-packages\ckeditor_uploader\templates\ckeditor\browse.html:5
+msgid "Select an image to embed"
+msgstr "Select an image to embed"
+
+#: .\env\Lib\site-packages\ckeditor_uploader\templates\ckeditor\browse.html:27
+msgid "Browse for the image you want, then click 'Embed Image' to continue..."
+msgstr ""
+"Browse for the image you want, then click 'Embed Image' to continue..."
+
+#: .\env\Lib\site-packages\ckeditor_uploader\templates\ckeditor\browse.html:29
+msgid ""
+"No images found. Upload images using the 'Image Button' dialog's 'Upload' "
+"tab."
+msgstr ""
+"No images found. Upload images using the 'Image Button' dialog's 'Upload' "
+"tab."
+
+#: .\env\Lib\site-packages\ckeditor_uploader\templates\ckeditor\browse.html:50
+msgid "Images in: "
+msgstr "Images in:"
+
+#: .\env\Lib\site-packages\ckeditor_uploader\templates\ckeditor\browse.html:62
+#: .\env\Lib\site-packages\ckeditor_uploader\templates\ckeditor\browse.html:80
+msgid "Embed Image"
+msgstr "Embed Image"
+
+#: .\env\Lib\site-packages\ckeditor_uploader\templates\ckeditor\browse.html:146
+msgid "Play Slideshow"
+msgstr "Play Slideshow"
+
+#: .\env\Lib\site-packages\ckeditor_uploader\templates\ckeditor\browse.html:147
+msgid "Pause Slideshow"
+msgstr "Pause Slideshow"
+
+#: .\env\Lib\site-packages\ckeditor_uploader\templates\ckeditor\browse.html:148
+msgid "&lsaquo; Previous Photo"
+msgstr "&lsaquo; Previous Photo"
+
+#: .\env\Lib\site-packages\ckeditor_uploader\templates\ckeditor\browse.html:149
+msgid "Next Photo &rsaquo;"
+msgstr "Next Photo &rsaquo;"
+
+#: .\env\Lib\site-packages\ckeditor_uploader\templates\ckeditor\browse.html:150
+msgid "Next &rsaquo;"
+msgstr "Next &rsaquo;"
+
+#: .\env\Lib\site-packages\ckeditor_uploader\templates\ckeditor\browse.html:151
+msgid "&lsaquo; Prev"
+msgstr "&lsaquo; Prev"
+
+#: .\env\Lib\site-packages\django\contrib\messages\apps.py:15
+msgid "Messages"
+msgstr "Messages"
+
+#: .\env\Lib\site-packages\django\contrib\sitemaps\apps.py:8
+msgid "Site Maps"
+msgstr "Site Maps"
+
+#: .\env\Lib\site-packages\django\contrib\staticfiles\apps.py:9
+msgid "Static Files"
+msgstr "Static Files"
+
+#: .\env\Lib\site-packages\django\contrib\syndication\apps.py:7
+msgid "Syndication"
+msgstr "Syndication"
+
+#. Translators: String used to replace omitted page numbers in elided page
+#. range generated by paginators, e.g. [1, 2, '…', 5, 6, 7, '…', 9, 10].
+#: .\env\Lib\site-packages\django\core\paginator.py:30
+msgid "…"
+msgstr "…"
+
+#: .\env\Lib\site-packages\django\core\paginator.py:50
+msgid "That page number is not an integer"
+msgstr "That page number is not an integer"
+
+#: .\env\Lib\site-packages\django\core\paginator.py:52
+msgid "That page number is less than 1"
+msgstr "That page number is less than 1"
+
+#: .\env\Lib\site-packages\django\core\paginator.py:54
+msgid "That page contains no results"
+msgstr "That page contains no results"
+
+#: .\env\Lib\site-packages\django\core\validators.py:22
+msgid "Enter a valid value."
+msgstr "Enter a valid value."
+
+#: .\env\Lib\site-packages\django\core\validators.py:104
+#: .\env\Lib\site-packages\django\forms\fields.py:752
+msgid "Enter a valid URL."
+msgstr "Enter a valid URL."
+
+#: .\env\Lib\site-packages\django\core\validators.py:165
+msgid "Enter a valid integer."
+msgstr "Enter a valid integer."
+
+#: .\env\Lib\site-packages\django\core\validators.py:176
+msgid "Enter a valid email address."
+msgstr "Enter a valid email address."
+
+#. Translators: "letters" means latin letters: a-z and A-Z.
+#: .\env\Lib\site-packages\django\core\validators.py:259
+msgid ""
+"Enter a valid “slug” consisting of letters, numbers, underscores or hyphens."
+msgstr ""
+"Enter a valid “slug” consisting of letters, numbers, underscores or hyphens."
+
+#: .\env\Lib\site-packages\django\core\validators.py:267
+msgid ""
+"Enter a valid “slug” consisting of Unicode letters, numbers, underscores, or"
+" hyphens."
+msgstr ""
+"Enter a valid “slug” consisting of Unicode letters, numbers, underscores, or"
+" hyphens."
+
+#: .\env\Lib\site-packages\django\core\validators.py:279
+#: .\env\Lib\site-packages\django\core\validators.py:287
+#: .\env\Lib\site-packages\django\core\validators.py:316
+msgid "Enter a valid IPv4 address."
+msgstr "Enter a valid IPv4 address."
+
+#: .\env\Lib\site-packages\django\core\validators.py:296
+#: .\env\Lib\site-packages\django\core\validators.py:317
+msgid "Enter a valid IPv6 address."
+msgstr "Enter a valid IPv6 address."
+
+#: .\env\Lib\site-packages\django\core\validators.py:308
+#: .\env\Lib\site-packages\django\core\validators.py:315
+msgid "Enter a valid IPv4 or IPv6 address."
+msgstr "Enter a valid IPv4 or IPv6 address."
+
+#: .\env\Lib\site-packages\django\core\validators.py:351
+msgid "Enter only digits separated by commas."
+msgstr "Enter only digits separated by commas."
+
+#: .\env\Lib\site-packages\django\core\validators.py:357
+#, python-format
+msgid "Ensure this value is %(limit_value)s (it is %(show_value)s)."
+msgstr "Ensure this value is %(limit_value)s (it is %(show_value)s)."
+
+#: .\env\Lib\site-packages\django\core\validators.py:392
+#, python-format
+msgid "Ensure this value is less than or equal to %(limit_value)s."
+msgstr "Ensure this value is less than or equal to %(limit_value)s."
+
+#: .\env\Lib\site-packages\django\core\validators.py:401
+#, python-format
+msgid "Ensure this value is greater than or equal to %(limit_value)s."
+msgstr "Ensure this value is greater than or equal to %(limit_value)s."
+
+#: .\env\Lib\site-packages\django\core\validators.py:410
+#, python-format
+msgid "Ensure this value is a multiple of step size %(limit_value)s."
+msgstr "Ensure this value is a multiple of step size %(limit_value)s"
+
+#: .\env\Lib\site-packages\django\core\validators.py:420
+#, python-format
+msgid ""
+"Ensure this value has at least %(limit_value)d character (it has "
+"%(show_value)d)."
+msgid_plural ""
+"Ensure this value has at least %(limit_value)d characters (it has "
+"%(show_value)d)."
+msgstr[0] ""
+"Ensure this value has at least %(limit_value)d character (it has "
+"%(show_value)d)."
+msgstr[1] ""
+"Ensure this value has at least %(limit_value)d characters (it has "
+"%(show_value)d)."
+
+#: .\env\Lib\site-packages\django\core\validators.py:438
+#, python-format
+msgid ""
+"Ensure this value has at most %(limit_value)d character (it has "
+"%(show_value)d)."
+msgid_plural ""
+"Ensure this value has at most %(limit_value)d characters (it has "
+"%(show_value)d)."
+msgstr[0] ""
+"nsure this value has at most %(limit_value)d character (it has "
+"%(show_value)d)."
+msgstr[1] ""
+"Ensure this value has at most %(limit_value)d characters (it has "
+"%(show_value)d)."
+
+#: .\env\Lib\site-packages\django\core\validators.py:461
+#: .\env\Lib\site-packages\django\forms\fields.py:347
+#: .\env\Lib\site-packages\django\forms\fields.py:386
+msgid "Enter a number."
+msgstr "Enter a number."
+
+#: .\env\Lib\site-packages\django\core\validators.py:463
+#, python-format
+msgid "Ensure that there are no more than %(max)s digit in total."
+msgid_plural "Ensure that there are no more than %(max)s digits in total."
+msgstr[0] "Ensure that there are no more than %(max)s digit in total."
+msgstr[1] "Ensure that there are no more than %(max)s digits in total."
+
+#: .\env\Lib\site-packages\django\core\validators.py:468
+#, python-format
+msgid "Ensure that there are no more than %(max)s decimal place."
+msgid_plural "Ensure that there are no more than %(max)s decimal places."
+msgstr[0] "Ensure that there are no more than %(max)s decimal place."
+msgstr[1] "Ensure that there are no more than %(max)s decimal places."
+
+#: .\env\Lib\site-packages\django\core\validators.py:473
+#, python-format
+msgid ""
+"Ensure that there are no more than %(max)s digit before the decimal point."
+msgid_plural ""
+"Ensure that there are no more than %(max)s digits before the decimal point."
+msgstr[0] ""
+"Ensure that there are no more than %(max)s digit before the decimal point."
+msgstr[1] ""
+"Ensure that there are no more than %(max)s digits before the decimal point."
+
+#: .\env\Lib\site-packages\django\core\validators.py:544
+#, python-format
+msgid ""
+"File extension “%(extension)s” is not allowed. Allowed extensions are: "
+"%(allowed_extensions)s."
+msgstr ""
+"File extension “%(extension)s” is not allowed. Allowed extensions are: "
+"%(allowed_extensions)s."
+
+#: .\env\Lib\site-packages\django\core\validators.py:605
+msgid "Null characters are not allowed."
+msgstr "Null characters are not allowed."
+
+#: .\env\Lib\site-packages\django\db\models\base.py:1423
+#: .\env\Lib\site-packages\django\forms\models.py:893
+msgid "and"
+msgstr "and"
+
+#: .\env\Lib\site-packages\django\db\models\base.py:1425
+#, python-format
+msgid "%(model_name)s with this %(field_labels)s already exists."
+msgstr "%(model_name)s with this %(field_labels)s already exists."
+
+#: .\env\Lib\site-packages\django\db\models\constraints.py:17
+#, python-format
+msgid "Constraint “%(name)s” is violated."
+msgstr "Constraint “%(name)s” is violated."
+
+#: .\env\Lib\site-packages\django\db\models\fields\__init__.py:128
+#, python-format
+msgid "Value %(value)r is not a valid choice."
+msgstr "Value %(value)r is not a valid choice."
+
+#: .\env\Lib\site-packages\django\db\models\fields\__init__.py:129
+msgid "This field cannot be null."
+msgstr "This field cannot be null."
+
+#: .\env\Lib\site-packages\django\db\models\fields\__init__.py:130
+msgid "This field cannot be blank."
+msgstr "This field cannot be blank."
+
+#: .\env\Lib\site-packages\django\db\models\fields\__init__.py:131
+#, python-format
+msgid "%(model_name)s with this %(field_label)s already exists."
+msgstr "%(model_name)s with this %(field_label)s already exists."
+
+#. Translators: The 'lookup_type' is one of 'date', 'year' or
+#. 'month'. Eg: "Title must be unique for pub_date year"
+#: .\env\Lib\site-packages\django\db\models\fields\__init__.py:135
+#, python-format
+msgid ""
+"%(field_label)s must be unique for %(date_field_label)s %(lookup_type)s."
+msgstr ""
+"%(field_label)s must be unique for %(date_field_label)s %(lookup_type)s."
+
+#: .\env\Lib\site-packages\django\db\models\fields\__init__.py:173
+#, python-format
+msgid "Field of type: %(field_type)s"
+msgstr "Field of type: %(field_type)s"
+
+#: .\env\Lib\site-packages\django\db\models\fields\__init__.py:1094
+#, python-format
+msgid "“%(value)s” value must be either True or False."
+msgstr "“%(value)s” value must be either True or False."
+
+#: .\env\Lib\site-packages\django\db\models\fields\__init__.py:1095
+#, python-format
+msgid "“%(value)s” value must be either True, False, or None."
+msgstr "“%(value)s” value must be either True, False, or None."
+
+#: .\env\Lib\site-packages\django\db\models\fields\__init__.py:1097
+msgid "Boolean (Either True or False)"
+msgstr "Boolean (Either True or False)"
+
+#: .\env\Lib\site-packages\django\db\models\fields\__init__.py:1147
+#, python-format
+msgid "String (up to %(max_length)s)"
+msgstr "String (up to %(max_length)s)"
+
+#: .\env\Lib\site-packages\django\db\models\fields\__init__.py:1149
+msgid "String (unlimited)"
+msgstr "String (unlimited)"
+
+#: .\env\Lib\site-packages\django\db\models\fields\__init__.py:1253
+msgid "Comma-separated integers"
+msgstr "Comma-separated integers"
+
+#: .\env\Lib\site-packages\django\db\models\fields\__init__.py:1354
+#, python-format
+msgid ""
+"“%(value)s” value has an invalid date format. It must be in YYYY-MM-DD "
+"format."
+msgstr ""
+"“%(value)s” value has an invalid date format. It must be in YYYY-MM-DD "
+"format."
+
+#: .\env\Lib\site-packages\django\db\models\fields\__init__.py:1358
+#: .\env\Lib\site-packages\django\db\models\fields\__init__.py:1493
+#, python-format
+msgid ""
+"“%(value)s” value has the correct format (YYYY-MM-DD) but it is an invalid "
+"date."
+msgstr ""
+"“%(value)s” value has the correct format (YYYY-MM-DD) but it is an invalid "
+"date."
+
+#: .\env\Lib\site-packages\django\db\models\fields\__init__.py:1362
+msgid "Date (without time)"
+msgstr "Date (without time)"
+
+#: .\env\Lib\site-packages\django\db\models\fields\__init__.py:1489
+#, python-format
+msgid ""
+"“%(value)s” value has an invalid format. It must be in YYYY-MM-DD "
+"HH:MM[:ss[.uuuuuu]][TZ] format."
+msgstr ""
+"“%(value)s” value has an invalid format. It must be in YYYY-MM-DD "
+"HH:MM[:ss[.uuuuuu]][TZ] format."
+
+#: .\env\Lib\site-packages\django\db\models\fields\__init__.py:1497
+#, python-format
+msgid ""
+"“%(value)s” value has the correct format (YYYY-MM-DD "
+"HH:MM[:ss[.uuuuuu]][TZ]) but it is an invalid date/time."
+msgstr ""
+"“%(value)s” value has the correct format (YYYY-MM-DD "
+"HH:MM[:ss[.uuuuuu]][TZ]) but it is an invalid date/time."
+
+#: .\env\Lib\site-packages\django\db\models\fields\__init__.py:1502
+msgid "Date (with time)"
+msgstr "Date (with time)"
+
+#: .\env\Lib\site-packages\django\db\models\fields\__init__.py:1626
+#, python-format
+msgid "“%(value)s” value must be a decimal number."
+msgstr "“%(value)s” value must be a decimal number."
+
+#: .\env\Lib\site-packages\django\db\models\fields\__init__.py:1628
+msgid "Decimal number"
+msgstr "Decimal number"
+
+#: .\env\Lib\site-packages\django\db\models\fields\__init__.py:1789
+#, python-format
+msgid ""
+"“%(value)s” value has an invalid format. It must be in [DD] "
+"[[HH:]MM:]ss[.uuuuuu] format."
+msgstr ""
+"“%(value)s” value has an invalid format. It must be in [DD] "
+"[[HH:]MM:]ss[.uuuuuu] format."
+
+#: .\env\Lib\site-packages\django\db\models\fields\__init__.py:1793
+msgid "Duration"
+msgstr "Duration"
+
+#: .\env\Lib\site-packages\django\db\models\fields\__init__.py:1845
+msgid "Email address"
+msgstr "Email address"
+
+#: .\env\Lib\site-packages\django\db\models\fields\__init__.py:1870
+msgid "File path"
+msgstr "File path"
+
+#: .\env\Lib\site-packages\django\db\models\fields\__init__.py:1948
+#, python-format
+msgid "“%(value)s” value must be a float."
+msgstr "“%(value)s” value must be a float."
+
+#: .\env\Lib\site-packages\django\db\models\fields\__init__.py:1950
+msgid "Floating point number"
+msgstr "Floating point number"
+
+#: .\env\Lib\site-packages\django\db\models\fields\__init__.py:1990
+#, python-format
+msgid "“%(value)s” value must be an integer."
+msgstr "“%(value)s” value must be an integer."
+
+#: .\env\Lib\site-packages\django\db\models\fields\__init__.py:1992
+msgid "Integer"
+msgstr "Integer"
+
+#: .\env\Lib\site-packages\django\db\models\fields\__init__.py:2088
+msgid "Big (8 byte) integer"
+msgstr "Big (8 byte) integer"
+
+#: .\env\Lib\site-packages\django\db\models\fields\__init__.py:2105
+msgid "Small integer"
+msgstr "Small integer"
+
+#: .\env\Lib\site-packages\django\db\models\fields\__init__.py:2113
+msgid "IPv4 address"
+msgstr "IPv4 address"
+
+#: .\env\Lib\site-packages\django\db\models\fields\__init__.py:2144
+msgid "IP address"
+msgstr "IP address"
+
+#: .\env\Lib\site-packages\django\db\models\fields\__init__.py:2237
+#: .\env\Lib\site-packages\django\db\models\fields\__init__.py:2238
+#, python-format
+msgid "“%(value)s” value must be either None, True or False."
+msgstr "“%(value)s” value must be either None, True or False."
+
+#: .\env\Lib\site-packages\django\db\models\fields\__init__.py:2240
+msgid "Boolean (Either True, False or None)"
+msgstr "Boolean (Either True, False or None)"
+
+#: .\env\Lib\site-packages\django\db\models\fields\__init__.py:2291
+msgid "Positive big integer"
+msgstr "Positive big integer"
+
+#: .\env\Lib\site-packages\django\db\models\fields\__init__.py:2306
+msgid "Positive integer"
+msgstr "Positive integer"
+
+#: .\env\Lib\site-packages\django\db\models\fields\__init__.py:2321
+msgid "Positive small integer"
+msgstr "Positive small integer"
+
+#: .\env\Lib\site-packages\django\db\models\fields\__init__.py:2337
+#, python-format
+msgid "Slug (up to %(max_length)s)"
+msgstr "Slug (up to %(max_length)s)"
+
+#: .\env\Lib\site-packages\django\db\models\fields\__init__.py:2373
+msgid "Text"
+msgstr "Text"
+
+#: .\env\Lib\site-packages\django\db\models\fields\__init__.py:2448
+#, python-format
+msgid ""
+"“%(value)s” value has an invalid format. It must be in HH:MM[:ss[.uuuuuu]] "
+"format."
+msgstr ""
+"“%(value)s” value has an invalid format. It must be in HH:MM[:ss[.uuuuuu]] "
+"format."
+
+#: .\env\Lib\site-packages\django\db\models\fields\__init__.py:2452
+#, python-format
+msgid ""
+"“%(value)s” value has the correct format (HH:MM[:ss[.uuuuuu]]) but it is an "
+"invalid time."
+msgstr ""
+"“%(value)s” value has the correct format (HH:MM[:ss[.uuuuuu]]) but it is an "
+"invalid time."
+
+#: .\env\Lib\site-packages\django\db\models\fields\__init__.py:2456
+msgid "Time"
+msgstr "Time"
+
+#: .\env\Lib\site-packages\django\db\models\fields\__init__.py:2564
+msgid "URL"
+msgstr "URL"
+
+#: .\env\Lib\site-packages\django\db\models\fields\__init__.py:2588
+msgid "Raw binary data"
+msgstr "Raw binary data"
+
+#: .\env\Lib\site-packages\django\db\models\fields\__init__.py:2653
+#, python-format
+msgid "“%(value)s” is not a valid UUID."
+msgstr "“%(value)s” is not a valid UUID."
+
+#: .\env\Lib\site-packages\django\db\models\fields\__init__.py:2655
+msgid "Universally unique identifier"
+msgstr "Universally unique identifier"
+
+#: .\env\Lib\site-packages\django\db\models\fields\files.py:232
+msgid "File"
+msgstr "File"
+
+#: .\env\Lib\site-packages\django\db\models\fields\files.py:393
+msgid "Image"
+msgstr "Image"
+
+#: .\env\Lib\site-packages\django\db\models\fields\json.py:26
+msgid "A JSON object"
+msgstr "A JSON object"
+
+#: .\env\Lib\site-packages\django\db\models\fields\json.py:28
+msgid "Value must be valid JSON."
+msgstr "Value must be valid JSON."
+
+#: .\env\Lib\site-packages\django\db\models\fields\related.py:919
+#, python-format
+msgid "%(model)s instance with %(field)s %(value)r does not exist."
+msgstr "%(model)s instance with %(field)s %(value)r does not exist."
+
+#: .\env\Lib\site-packages\django\db\models\fields\related.py:921
+msgid "Foreign Key (type determined by related field)"
+msgstr "Foreign Key (type determined by related field)"
+
+#: .\env\Lib\site-packages\django\db\models\fields\related.py:1212
+msgid "One-to-one relationship"
+msgstr "One-to-one relationship"
+
+#: .\env\Lib\site-packages\django\db\models\fields\related.py:1269
+#, python-format
+msgid "%(from)s-%(to)s relationship"
+msgstr "%(from)s-%(to)s relationship"
+
+#: .\env\Lib\site-packages\django\db\models\fields\related.py:1271
+#, python-format
+msgid "%(from)s-%(to)s relationships"
+msgstr "%(from)s-%(to)s relationships"
+
+#: .\env\Lib\site-packages\django\db\models\fields\related.py:1319
+msgid "Many-to-many relationship"
+msgstr "Many-to-many relationship"
+
+#. Translators: If found as last label character, these punctuation
+#. characters will prevent the default label_suffix to be appended to the
+#. label
+#: .\env\Lib\site-packages\django\forms\boundfield.py:184
+msgid ":?.!"
+msgstr ":?.!"
+
+#: .\env\Lib\site-packages\django\forms\fields.py:91
+msgid "This field is required."
+msgstr "This field is required."
+
+#: .\env\Lib\site-packages\django\forms\fields.py:298
+msgid "Enter a whole number."
+msgstr "Enter a whole number."
+
+#: .\env\Lib\site-packages\django\forms\fields.py:467
+#: .\env\Lib\site-packages\django\forms\fields.py:1241
+msgid "Enter a valid date."
+msgstr "Enter a valid date."
+
+#: .\env\Lib\site-packages\django\forms\fields.py:490
+#: .\env\Lib\site-packages\django\forms\fields.py:1242
+msgid "Enter a valid time."
+msgstr "Enter a valid time."
+
+#: .\env\Lib\site-packages\django\forms\fields.py:517
+msgid "Enter a valid date/time."
+msgstr "Enter a valid date/time."
+
+#: .\env\Lib\site-packages\django\forms\fields.py:551
+msgid "Enter a valid duration."
+msgstr "Enter a valid duration."
+
+#: .\env\Lib\site-packages\django\forms\fields.py:552
+#, python-brace-format
+msgid "The number of days must be between {min_days} and {max_days}."
+msgstr "The number of days must be between {min_days} and {max_days}."
+
+#: .\env\Lib\site-packages\django\forms\fields.py:621
+msgid "No file was submitted. Check the encoding type on the form."
+msgstr "No file was submitted. Check the encoding type on the form."
+
+#: .\env\Lib\site-packages\django\forms\fields.py:622
+msgid "No file was submitted."
+msgstr "No file was submitted."
+
+#: .\env\Lib\site-packages\django\forms\fields.py:623
+msgid "The submitted file is empty."
+msgstr "The submitted file is empty."
+
+#: .\env\Lib\site-packages\django\forms\fields.py:625
+#, python-format
+msgid ""
+"Ensure this filename has at most %(max)d character (it has %(length)d)."
+msgid_plural ""
+"Ensure this filename has at most %(max)d characters (it has %(length)d)."
+msgstr[0] ""
+"Ensure this filename has at most %(max)d character (it has %(length)d)."
+msgstr[1] ""
+"Ensure this filename has at most %(max)d characters (it has %(length)d)."
+
+#: .\env\Lib\site-packages\django\forms\fields.py:630
+msgid "Please either submit a file or check the clear checkbox, not both."
+msgstr "Please either submit a file or check the clear checkbox, not both."
+
+#: .\env\Lib\site-packages\django\forms\fields.py:694
+msgid ""
+"Upload a valid image. The file you uploaded was either not an image or a "
+"corrupted image."
+msgstr ""
+"Upload a valid image. The file you uploaded was either not an image or a "
+"corrupted image."
+
+#: .\env\Lib\site-packages\django\forms\fields.py:857
+#: .\env\Lib\site-packages\django\forms\fields.py:949
+#: .\env\Lib\site-packages\django\forms\models.py:1566
+#, python-format
+msgid "Select a valid choice. %(value)s is not one of the available choices."
+msgstr "Select a valid choice. %(value)s is not one of the available choices."
+
+#: .\env\Lib\site-packages\django\forms\fields.py:951
+#: .\env\Lib\site-packages\django\forms\fields.py:1070
+#: .\env\Lib\site-packages\django\forms\models.py:1564
+msgid "Enter a list of values."
+msgstr "Enter a list of values."
+
+#: .\env\Lib\site-packages\django\forms\fields.py:1071
+msgid "Enter a complete value."
+msgstr "Enter a complete value."
+
+#: .\env\Lib\site-packages\django\forms\fields.py:1310
+msgid "Enter a valid UUID."
+msgstr "Enter a valid UUID."
+
+#: .\env\Lib\site-packages\django\forms\fields.py:1340
+msgid "Enter a valid JSON."
+msgstr "Enter a valid JSON."
+
+#. Translators: This is the default suffix added to form field labels
+#: .\env\Lib\site-packages\django\forms\forms.py:98
+msgid ":"
+msgstr ":"
+
+#: .\env\Lib\site-packages\django\forms\forms.py:244
+#: .\env\Lib\site-packages\django\forms\forms.py:328
+#, python-format
+msgid "(Hidden field %(name)s) %(error)s"
+msgstr "(Hidden field %(name)s) %(error)s"
+
+#: .\env\Lib\site-packages\django\forms\formsets.py:63
+#, python-format
+msgid ""
+"ManagementForm data is missing or has been tampered with. Missing fields: "
+"%(field_names)s. You may need to file a bug report if the issue persists."
+msgstr ""
+"ManagementForm data is missing or has been tampered with. Missing fields: "
+"%(field_names)s. You may need to file a bug report if the issue persists."
+
+#: .\env\Lib\site-packages\django\forms\formsets.py:67
+#, python-format
+msgid "Please submit at most %(num)d form."
+msgid_plural "Please submit at most %(num)d forms."
+msgstr[0] "Please submit at most %(num)d form."
+msgstr[1] "Please submit at most %(num)d forms."
+
+#: .\env\Lib\site-packages\django\forms\formsets.py:72
+#, python-format
+msgid "Please submit at least %(num)d form."
+msgid_plural "Please submit at least %(num)d forms."
+msgstr[0] "Please submit at least %(num)d form."
+msgstr[1] "Please submit at least %(num)d forms."
+
+#: .\env\Lib\site-packages\django\forms\formsets.py:484
+#: .\env\Lib\site-packages\django\forms\formsets.py:491
+msgid "Order"
+msgstr "Order"
+
+#: .\env\Lib\site-packages\django\forms\formsets.py:499
+msgid "Delete"
+msgstr "Delete"
+
+#: .\env\Lib\site-packages\django\forms\models.py:886
+#, python-format
+msgid "Please correct the duplicate data for %(field)s."
+msgstr "Please correct the duplicate data for %(field)s."
+
+#: .\env\Lib\site-packages\django\forms\models.py:891
+#, python-format
+msgid "Please correct the duplicate data for %(field)s, which must be unique."
+msgstr ""
+"Please correct the duplicate data for %(field)s, which must be unique."
+
+#: .\env\Lib\site-packages\django\forms\models.py:898
+#, python-format
+msgid ""
+"Please correct the duplicate data for %(field_name)s which must be unique "
+"for the %(lookup)s in %(date_field)s."
+msgstr ""
+"Please correct the duplicate data for %(field_name)s which must be unique "
+"for the %(lookup)s in %(date_field)s."
+
+#: .\env\Lib\site-packages\django\forms\models.py:907
+msgid "Please correct the duplicate values below."
+msgstr "Please correct the duplicate values below."
+
+#: .\env\Lib\site-packages\django\forms\models.py:1338
+msgid "The inline value did not match the parent instance."
+msgstr "The inline value did not match the parent instance."
+
+#: .\env\Lib\site-packages\django\forms\models.py:1429
+msgid ""
+"Select a valid choice. That choice is not one of the available choices."
+msgstr ""
+"Select a valid choice. That choice is not one of the available choices."
+
+#: .\env\Lib\site-packages\django\forms\models.py:1568
+#, python-format
+msgid "“%(pk)s” is not a valid value."
+msgstr "“%(pk)s” is not a valid value."
+
+#: .\env\Lib\site-packages\django\forms\utils.py:226
+#, python-format
+msgid ""
+"%(datetime)s couldn’t be interpreted in time zone %(current_timezone)s; it "
+"may be ambiguous or it may not exist."
+msgstr ""
+"%(datetime)s couldn’t be interpreted in time zone %(current_timezone)s; it "
+"may be ambiguous or it may not exist."
+
+#: .\env\Lib\site-packages\django\forms\widgets.py:463
+msgid "Clear"
+msgstr "Clear"
+
+#: .\env\Lib\site-packages\django\forms\widgets.py:464
+msgid "Currently"
+msgstr "Currently"
+
+#: .\env\Lib\site-packages\django\forms\widgets.py:465
+msgid "Change"
+msgstr "Change"
+
+#: .\env\Lib\site-packages\django\forms\widgets.py:794
+msgid "Unknown"
+msgstr "Unknown"
+
+#: .\env\Lib\site-packages\django\forms\widgets.py:795
+msgid "Yes"
+msgstr "Yes"
+
+#: .\env\Lib\site-packages\django\forms\widgets.py:796
+msgid "No"
+msgstr "No"
+
+#. Translators: Please do not add spaces around commas.
+#: .\env\Lib\site-packages\django\template\defaultfilters.py:861
+msgid "yes,no,maybe"
+msgstr "yes,no,maybe"
+
+#: .\env\Lib\site-packages\django\template\defaultfilters.py:891
+#: .\env\Lib\site-packages\django\template\defaultfilters.py:908
+#, python-format
+msgid "%(size)d byte"
+msgid_plural "%(size)d bytes"
+msgstr[0] "%(size)d byte"
+msgstr[1] "%(size)d bytes"
+
+#: .\env\Lib\site-packages\django\template\defaultfilters.py:910
+#, python-format
+msgid "%s KB"
+msgstr "%s KB"
+
+#: .\env\Lib\site-packages\django\template\defaultfilters.py:912
+#, python-format
+msgid "%s MB"
+msgstr "%s MB"
+
+#: .\env\Lib\site-packages\django\template\defaultfilters.py:914
+#, python-format
+msgid "%s GB"
+msgstr "%s GB"
+
+#: .\env\Lib\site-packages\django\template\defaultfilters.py:916
+#, python-format
+msgid "%s TB"
+msgstr "%s TB"
+
+#: .\env\Lib\site-packages\django\template\defaultfilters.py:918
+#, python-format
+msgid "%s PB"
+msgstr "%s PB"
+
+#: .\env\Lib\site-packages\django\utils\dateformat.py:73
+msgid "p.m."
+msgstr "p.m."
+
+#: .\env\Lib\site-packages\django\utils\dateformat.py:74
+msgid "a.m."
+msgstr "a.m."
+
+#: .\env\Lib\site-packages\django\utils\dateformat.py:79
+msgid "PM"
+msgstr "PM"
+
+#: .\env\Lib\site-packages\django\utils\dateformat.py:80
+msgid "AM"
+msgstr "AM"
+
+#: .\env\Lib\site-packages\django\utils\dateformat.py:152
+msgid "midnight"
+msgstr "midnight"
+
+#: .\env\Lib\site-packages\django\utils\dateformat.py:154
+msgid "noon"
+msgstr "noon"
+
+#: .\env\Lib\site-packages\django\utils\dates.py:7
+msgid "Monday"
+msgstr "Monday"
+
+#: .\env\Lib\site-packages\django\utils\dates.py:8
+msgid "Tuesday"
+msgstr "Tuesday"
+
+#: .\env\Lib\site-packages\django\utils\dates.py:9
+msgid "Wednesday"
+msgstr "Wednesday"
+
+#: .\env\Lib\site-packages\django\utils\dates.py:10
+msgid "Thursday"
+msgstr "Thursday"
+
+#: .\env\Lib\site-packages\django\utils\dates.py:11
+msgid "Friday"
+msgstr "Friday"
+
+#: .\env\Lib\site-packages\django\utils\dates.py:12
+msgid "Saturday"
+msgstr "Saturday"
+
+#: .\env\Lib\site-packages\django\utils\dates.py:13
+msgid "Sunday"
+msgstr "Sunday"
+
+#: .\env\Lib\site-packages\django\utils\dates.py:16
+msgid "Mon"
+msgstr "Mon"
+
+#: .\env\Lib\site-packages\django\utils\dates.py:17
+msgid "Tue"
+msgstr "Tue"
+
+#: .\env\Lib\site-packages\django\utils\dates.py:18
+msgid "Wed"
+msgstr "Wed"
+
+#: .\env\Lib\site-packages\django\utils\dates.py:19
+msgid "Thu"
+msgstr "Thu"
+
+#: .\env\Lib\site-packages\django\utils\dates.py:20
+msgid "Fri"
+msgstr "Fri"
+
+#: .\env\Lib\site-packages\django\utils\dates.py:21
+msgid "Sat"
+msgstr "Sat"
+
+#: .\env\Lib\site-packages\django\utils\dates.py:22
+msgid "Sun"
+msgstr "Sun"
+
+#: .\env\Lib\site-packages\django\utils\dates.py:25
+msgid "January"
+msgstr "January"
+
+#: .\env\Lib\site-packages\django\utils\dates.py:26
+msgid "February"
+msgstr "February"
+
+#: .\env\Lib\site-packages\django\utils\dates.py:27
+msgid "March"
+msgstr "March"
+
+#: .\env\Lib\site-packages\django\utils\dates.py:28
+msgid "April"
+msgstr "April"
+
+#: .\env\Lib\site-packages\django\utils\dates.py:29
+msgid "May"
+msgstr "May"
+
+#: .\env\Lib\site-packages\django\utils\dates.py:30
+msgid "June"
+msgstr "May"
+
+#: .\env\Lib\site-packages\django\utils\dates.py:31
+msgid "July"
+msgstr "July"
+
+#: .\env\Lib\site-packages\django\utils\dates.py:32
+msgid "August"
+msgstr "August"
+
+#: .\env\Lib\site-packages\django\utils\dates.py:33
+msgid "September"
+msgstr "September"
+
+#: .\env\Lib\site-packages\django\utils\dates.py:34
+msgid "October"
+msgstr "October"
+
+#: .\env\Lib\site-packages\django\utils\dates.py:35
+msgid "November"
+msgstr "November"
+
+#: .\env\Lib\site-packages\django\utils\dates.py:36
+msgid "December"
+msgstr "December"
+
+#: .\env\Lib\site-packages\django\utils\dates.py:39
+msgid "jan"
+msgstr "jan"
+
+#: .\env\Lib\site-packages\django\utils\dates.py:40
+msgid "feb"
+msgstr "feb"
+
+#: .\env\Lib\site-packages\django\utils\dates.py:41
+msgid "mar"
+msgstr "mar"
+
+#: .\env\Lib\site-packages\django\utils\dates.py:42
+msgid "apr"
+msgstr "apr"
+
+#: .\env\Lib\site-packages\django\utils\dates.py:43
+msgid "may"
+msgstr "may"
+
+#: .\env\Lib\site-packages\django\utils\dates.py:44
+msgid "jun"
+msgstr "jun"
+
+#: .\env\Lib\site-packages\django\utils\dates.py:45
+msgid "jul"
+msgstr "jul"
+
+#: .\env\Lib\site-packages\django\utils\dates.py:46
+msgid "aug"
+msgstr "aug"
+
+#: .\env\Lib\site-packages\django\utils\dates.py:47
+msgid "sep"
+msgstr "sep"
+
+#: .\env\Lib\site-packages\django\utils\dates.py:48
+msgid "oct"
+msgstr "oct"
+
+#: .\env\Lib\site-packages\django\utils\dates.py:49
+msgid "nov"
+msgstr "nov"
+
+#: .\env\Lib\site-packages\django\utils\dates.py:50
+msgid "dec"
+msgstr "dec"
+
+#: .\env\Lib\site-packages\django\utils\dates.py:53
+msgctxt "abbrev. month"
+msgid "Jan."
+msgstr "Jan."
+
+#: .\env\Lib\site-packages\django\utils\dates.py:54
+msgctxt "abbrev. month"
+msgid "Feb."
+msgstr "Feb."
+
+#: .\env\Lib\site-packages\django\utils\dates.py:55
+msgctxt "abbrev. month"
+msgid "March"
+msgstr "March"
+
+#: .\env\Lib\site-packages\django\utils\dates.py:56
+msgctxt "abbrev. month"
+msgid "April"
+msgstr "April"
+
+#: .\env\Lib\site-packages\django\utils\dates.py:57
+msgctxt "abbrev. month"
+msgid "May"
+msgstr "May"
+
+#: .\env\Lib\site-packages\django\utils\dates.py:58
+msgctxt "abbrev. month"
+msgid "June"
+msgstr "June"
+
+#: .\env\Lib\site-packages\django\utils\dates.py:59
+msgctxt "abbrev. month"
+msgid "July"
+msgstr "July"
+
+#: .\env\Lib\site-packages\django\utils\dates.py:60
+msgctxt "abbrev. month"
+msgid "Aug."
+msgstr "Aug."
+
+#: .\env\Lib\site-packages\django\utils\dates.py:61
+msgctxt "abbrev. month"
+msgid "Sept."
+msgstr "Sept."
+
+#: .\env\Lib\site-packages\django\utils\dates.py:62
+msgctxt "abbrev. month"
+msgid "Oct."
+msgstr "Oct."
+
+#: .\env\Lib\site-packages\django\utils\dates.py:63
+msgctxt "abbrev. month"
+msgid "Nov."
+msgstr "Nov."
+
+#: .\env\Lib\site-packages\django\utils\dates.py:64
+msgctxt "abbrev. month"
+msgid "Dec."
+msgstr "Dec."
+
+#: .\env\Lib\site-packages\django\utils\dates.py:67
+msgctxt "alt. month"
+msgid "January"
+msgstr "January"
+
+#: .\env\Lib\site-packages\django\utils\dates.py:68
+msgctxt "alt. month"
+msgid "February"
+msgstr "February"
+
+#: .\env\Lib\site-packages\django\utils\dates.py:69
+msgctxt "alt. month"
+msgid "March"
+msgstr "March"
+
+#: .\env\Lib\site-packages\django\utils\dates.py:70
+msgctxt "alt. month"
+msgid "April"
+msgstr "April"
+
+#: .\env\Lib\site-packages\django\utils\dates.py:71
+msgctxt "alt. month"
+msgid "May"
+msgstr "May"
+
+#: .\env\Lib\site-packages\django\utils\dates.py:72
+msgctxt "alt. month"
+msgid "June"
+msgstr "June"
+
+#: .\env\Lib\site-packages\django\utils\dates.py:73
+msgctxt "alt. month"
+msgid "July"
+msgstr "July"
+
+#: .\env\Lib\site-packages\django\utils\dates.py:74
+msgctxt "alt. month"
+msgid "August"
+msgstr "August"
+
+#: .\env\Lib\site-packages\django\utils\dates.py:75
+msgctxt "alt. month"
+msgid "September"
+msgstr "September"
+
+#: .\env\Lib\site-packages\django\utils\dates.py:76
+msgctxt "alt. month"
+msgid "October"
+msgstr "October"
+
+#: .\env\Lib\site-packages\django\utils\dates.py:77
+msgctxt "alt. month"
+msgid "November"
+msgstr "November"
+
+#: .\env\Lib\site-packages\django\utils\dates.py:78
+msgctxt "alt. month"
+msgid "December"
+msgstr "December"
+
+#: .\env\Lib\site-packages\django\utils\ipv6.py:8
+msgid "This is not a valid IPv6 address."
+msgstr "This is not a valid IPv6 address."
+
+#: .\env\Lib\site-packages\django\utils\text.py:78
+#, python-format
+msgctxt "String to return when truncating text"
+msgid "%(truncated_text)s…"
+msgstr "%(truncated_text)s…"
+
+#: .\env\Lib\site-packages\django\utils\text.py:254
+msgid "or"
+msgstr "or"
+
+#. Translators: This string is used as a separator between list elements
+#: .\env\Lib\site-packages\django\utils\text.py:273
+#: .\env\Lib\site-packages\django\utils\timesince.py:135
+msgid ", "
+msgstr ","
+
+#: .\env\Lib\site-packages\django\utils\timesince.py:8
+#, python-format
+msgid "%(num)d year"
+msgid_plural "%(num)d years"
+msgstr[0] "%(num)d year"
+msgstr[1] "%(num)d years"
+
+#: .\env\Lib\site-packages\django\utils\timesince.py:9
+#, python-format
+msgid "%(num)d month"
+msgid_plural "%(num)d months"
+msgstr[0] "%(num)d month"
+msgstr[1] "%(num)d months"
+
+#: .\env\Lib\site-packages\django\utils\timesince.py:10
+#, python-format
+msgid "%(num)d week"
+msgid_plural "%(num)d weeks"
+msgstr[0] "%(num)d week"
+msgstr[1] "%(num)d weeks"
+
+#: .\env\Lib\site-packages\django\utils\timesince.py:11
+#, python-format
+msgid "%(num)d day"
+msgid_plural "%(num)d days"
+msgstr[0] "%(num)d day"
+msgstr[1] "%(num)d days"
+
+#: .\env\Lib\site-packages\django\utils\timesince.py:12
+#, python-format
+msgid "%(num)d hour"
+msgid_plural "%(num)d hours"
+msgstr[0] "%(num)d hour"
+msgstr[1] "%(num)d hours"
+
+#: .\env\Lib\site-packages\django\utils\timesince.py:13
+#, python-format
+msgid "%(num)d minute"
+msgid_plural "%(num)d minutes"
+msgstr[0] "%(num)d minute"
+msgstr[1] "%(num)d minutes"
+
+#: .\env\Lib\site-packages\django\views\csrf.py:111
+msgid "Forbidden"
+msgstr "Forbidden"
+
+#: .\env\Lib\site-packages\django\views\csrf.py:112
+msgid "CSRF verification failed. Request aborted."
+msgstr "CSRF verification failed. Request aborted."
+
+#: .\env\Lib\site-packages\django\views\csrf.py:116
+msgid ""
+"You are seeing this message because this HTTPS site requires a “Referer "
+"header” to be sent by your web browser, but none was sent. This header is "
+"required for security reasons, to ensure that your browser is not being "
+"hijacked by third parties."
+msgstr ""
+"You are seeing this message because this HTTPS site requires a “Referer "
+"header” to be sent by your web browser, but none was sent. This header is "
+"required for security reasons, to ensure that your browser is not being "
+"hijacked by third parties."
+
+#: .\env\Lib\site-packages\django\views\csrf.py:122
+msgid ""
+"If you have configured your browser to disable “Referer” headers, please re-"
+"enable them, at least for this site, or for HTTPS connections, or for “same-"
+"origin” requests."
+msgstr ""
+"If you have configured your browser to disable “Referer” headers, please re-"
+"enable them, at least for this site, or for HTTPS connections, or for “same-"
+"origin” requests."
+
+#: .\env\Lib\site-packages\django\views\csrf.py:127
+msgid ""
+"If you are using the <meta name=\"referrer\" content=\"no-referrer\"> tag or"
+" including the “Referrer-Policy: no-referrer” header, please remove them. "
+"The CSRF protection requires the “Referer” header to do strict referer "
+"checking. If you’re concerned about privacy, use alternatives like <a "
+"rel=\"noreferrer\" …> for links to third-party sites."
+msgstr ""
+"If you are using the <meta name=\"referrer\" content=\"no-referrer\"> tag or"
+" including the “Referrer-Policy: no-referrer” header, please remove them. "
+"The CSRF protection requires the “Referer” header to do strict referer "
+"checking. If you’re concerned about privacy, use alternatives like <a "
+"rel=\"noreferrer\" …> for links to third-party sites."
+
+#: .\env\Lib\site-packages\django\views\csrf.py:136
+msgid ""
+"You are seeing this message because this site requires a CSRF cookie when "
+"submitting forms. This cookie is required for security reasons, to ensure "
+"that your browser is not being hijacked by third parties."
+msgstr ""
+"You are seeing this message because this site requires a CSRF cookie when "
+"submitting forms. This cookie is required for security reasons, to ensure "
+"that your browser is not being hijacked by third parties."
+
+#: .\env\Lib\site-packages\django\views\csrf.py:142
+msgid ""
+"If you have configured your browser to disable cookies, please re-enable "
+"them, at least for this site, or for “same-origin” requests."
+msgstr ""
+"If you have configured your browser to disable cookies, please re-enable "
+"them, at least for this site, or for “same-origin” requests."
+
+#: .\env\Lib\site-packages\django\views\csrf.py:148
+msgid "More information is available with DEBUG=True."
+msgstr "More information is available with DEBUG=True."
+
+#: .\env\Lib\site-packages\django\views\generic\dates.py:44
+msgid "No year specified"
+msgstr "No year specified"
+
+#: .\env\Lib\site-packages\django\views\generic\dates.py:64
+#: .\env\Lib\site-packages\django\views\generic\dates.py:115
+#: .\env\Lib\site-packages\django\views\generic\dates.py:214
+msgid "Date out of range"
+msgstr "Date out of range"
+
+#: .\env\Lib\site-packages\django\views\generic\dates.py:94
+msgid "No month specified"
+msgstr "No month specified"
+
+#: .\env\Lib\site-packages\django\views\generic\dates.py:147
+msgid "No day specified"
+msgstr "No day specified"
+
+#: .\env\Lib\site-packages\django\views\generic\dates.py:194
+msgid "No week specified"
+msgstr "No week specified"
+
+#: .\env\Lib\site-packages\django\views\generic\dates.py:349
+#: .\env\Lib\site-packages\django\views\generic\dates.py:380
+#, python-format
+msgid "No %(verbose_name_plural)s available"
+msgstr "No %(verbose_name_plural)s available"
+
+#: .\env\Lib\site-packages\django\views\generic\dates.py:652
+#, python-format
+msgid ""
+"Future %(verbose_name_plural)s not available because "
+"%(class_name)s.allow_future is False."
+msgstr ""
+"Future %(verbose_name_plural)s not available because "
+"%(class_name)s.allow_future is False."
+
+#: .\env\Lib\site-packages\django\views\generic\dates.py:692
+#, python-format
+msgid "Invalid date string “%(datestr)s” given format “%(format)s”"
+msgstr "Invalid date string “%(datestr)s” given format “%(format)s”"
+
+#: .\env\Lib\site-packages\django\views\generic\detail.py:56
+#, python-format
+msgid "No %(verbose_name)s found matching the query"
+msgstr "No %(verbose_name)s found matching the query"
+
+#: .\env\Lib\site-packages\django\views\generic\list.py:70
+msgid "Page is not “last”, nor can it be converted to an int."
+msgstr "Page is not “last”, nor can it be converted to an int."
+
+#: .\env\Lib\site-packages\django\views\generic\list.py:77
+#, python-format
+msgid "Invalid page (%(page_number)s): %(message)s"
+msgstr "Invalid page (%(page_number)s): %(message)s"
+
+#: .\env\Lib\site-packages\django\views\generic\list.py:169
+#, python-format
+msgid "Empty list and “%(class_name)s.allow_empty” is False."
+msgstr "Empty list and “%(class_name)s.allow_empty” is False."
+
+#: .\env\Lib\site-packages\django\views\static.py:38
+msgid "Directory indexes are not allowed here."
+msgstr "Directory indexes are not allowed here."
+
+#: .\env\Lib\site-packages\django\views\static.py:40
+#, python-format
+msgid "“%(path)s” does not exist"
+msgstr "“%(path)s” does not exist"
+
+#: .\env\Lib\site-packages\django\views\static.py:79
+#, python-format
+msgid "Index of %(directory)s"
+msgstr "Index of %(directory)s"
+
+#: .\env\Lib\site-packages\django\views\templates\default_urlconf.html:7
+#: .\env\Lib\site-packages\django\views\templates\default_urlconf.html:220
+msgid "The install worked successfully! Congratulations!"
+msgstr "The install worked successfully! Congratulations!"
+
+#: .\env\Lib\site-packages\django\views\templates\default_urlconf.html:206
+#, python-format
+msgid ""
+"View <a href=\"https://docs.djangoproject.com/en/%(version)s/releases/\" "
+"target=\"_blank\" rel=\"noopener\">release notes</a> for Django %(version)s"
+msgstr ""
+"View <a href=\"https://docs.djangoproject.com/en/%(version)s/releases/\" "
+"target=\"_blank\" rel=\"noopener\">release notes</a> for Django %(version)s"
+
+#: .\env\Lib\site-packages\django\views\templates\default_urlconf.html:221
+#, python-format
+msgid ""
+"You are seeing this page because <a "
+"href=\"https://docs.djangoproject.com/en/%(version)s/ref/settings/#debug\" "
+"target=\"_blank\" rel=\"noopener\">DEBUG=True</a> is in your settings file "
+"and you have not configured any URLs."
+msgstr ""
+"You are seeing this page because <a "
+"href=\"https://docs.djangoproject.com/en/%(version)s/ref/settings/#debug\" "
+"target=\"_blank\" rel=\"noopener\">DEBUG=True</a> is in your settings file "
+"and you have not configured any URLs."
+
+#: .\env\Lib\site-packages\django\views\templates\default_urlconf.html:229
+msgid "Django Documentation"
+msgstr "Django Documentation"
+
+#: .\env\Lib\site-packages\django\views\templates\default_urlconf.html:230
+msgid "Topics, references, &amp; how-to’s"
+msgstr "Topics, references, &amp; how-to’s"
+
+#: .\env\Lib\site-packages\django\views\templates\default_urlconf.html:238
+msgid "Tutorial: A Polling App"
+msgstr "Tutorial: A Polling App"
+
+#: .\env\Lib\site-packages\django\views\templates\default_urlconf.html:239
+msgid "Get started with Django"
+msgstr "Get started with Django"
+
+#: .\env\Lib\site-packages\django\views\templates\default_urlconf.html:247
+msgid "Django Community"
+msgstr "Django Community"
+
+#: .\env\Lib\site-packages\django\views\templates\default_urlconf.html:248
+msgid "Connect, get help, or contribute"
+msgstr "Connect, get help, or contribute"
+
+#: .\pages\models.py:10
+msgid "first_name"
+msgstr "first_name"
+
+#: .\pages\models.py:11
+msgid "last_name"
+msgstr "last_name"
+
+#: .\pages\models.py:12
+msgid "designation"
+msgstr "designation"
+
+#: .\pages\models.py:16
+msgid "photo"
+msgstr "photo"
+
+#: .\pages\models.py:17
+msgid "facebook_link"
+msgstr "facebook_link"
+
+#: .\pages\models.py:18
+msgid "twitter_link"
+msgstr "twitter_link"
+
+#: .\pages\models.py:19
+msgid "google_plus_link"
+msgstr "google_plus_link"
+
+#: .\pages\views.py:77
+#| msgid "conatct_send_message"
+msgid "contact_message"
+msgstr "Thank you for contacting us. we will get back to you shortly."
+
+#: .\templates\accounts\dashboard.html:19
+msgid "dashboard_txt"
+msgstr "Dashboard"
+
+#: .\templates\accounts\dashboard.html:21 .\templates\accounts\login.html:18
+#: .\templates\accounts\register.html:14 .\templates\cars\car_detail.html:17
+#: .\templates\cars\cars.html:19 .\templates\cars\search.html:14
+#: .\templates\pages\about.html:16 .\templates\pages\contact.html:15
+#: .\templates\pages\services.html:15
+msgid "cars_breadcrumb_1"
+msgstr "Home"
+
+#: .\templates\accounts\dashboard.html:34
+msgid "dashboard_welcom"
+msgstr "Welcome"
+
+#: .\templates\accounts\dashboard.html:35
+msgid "dashboard_welcom_desc"
+msgstr "Here are the cars that you have inquired about"
+
+#: .\templates\accounts\dashboard.html:41
+msgid "dashboard_product"
+msgstr "Product"
+
+#: .\templates\accounts\dashboard.html:42
+msgid "dashboard_car_name"
+msgstr "Car Name"
+
+#: .\templates\accounts\dashboard.html:43
+msgid "dashboard_location"
+msgstr "Location"
+
+#: .\templates\accounts\dashboard.html:44
+msgid "dashboard_price"
+msgstr "Price"
+
+#: .\templates\accounts\dashboard.html:45
+msgid "dashboard_action"
+msgstr "Action"
+
+#: .\templates\accounts\dashboard.html:58
+msgid "dashboard_view_car"
+msgstr "View Car"
+
+#: .\templates\accounts\dashboard.html:68
+msgid "dashboard_you_have_no_inquiries"
+msgstr "You have no inquiries"
+
+#: .\templates\accounts\login.html:16
+msgid "login_h1"
+msgstr "Login To Your Account"
+
+#: .\templates\accounts\login.html:19 .\templates\accounts\login.html:52
+msgid "login_breadcrumb_2"
+msgstr "Login"
+
+#: .\templates\accounts\login.html:38
+msgid "login_sing_into_your_account_txt"
+msgstr "Sign into your account "
+
+#: .\templates\accounts\login.html:55 .\templates\accounts\register.html:66
+msgid "login_login_with_txt"
+msgstr "Or Login With"
+
+#: .\templates\accounts\login.html:63
+msgid "login_dont_have_account"
+msgstr "Don't have an account?"
+
+#: .\templates\accounts\login.html:63
+msgid "login_register_here"
+msgstr "Register here"
+
+#: .\templates\accounts\register.html:12
+msgid "register_h1"
+msgstr "Register"
+
+#: .\templates\accounts\register.html:15
+msgid "register_breadcrumb_2"
+msgstr "Register"
+
+#: .\templates\accounts\register.html:34
+msgid "register_create_account"
+msgstr "Create an account "
+
+#: .\templates\accounts\register.html:63
+msgid "register_register_txt"
+msgstr "Register"
+
+#: .\templates\accounts\register.html:74
+msgid "register_already_member"
+msgstr "Already a member?"
+
+#: .\templates\accounts\register.html:74
+msgid "register_login_here"
+msgstr "Login here"
+
+#: .\templates\cars\car_detail.html:121
+msgid "carDetail_vehicule_overview"
+msgstr "Vehicle overview"
+
+#: .\templates\cars\car_detail.html:124 .\templates\cars\car_detail.html:141
+msgid "carDetail_features"
+msgstr "Features"
+
+#: .\templates\cars\car_detail.html:166
+msgid "carDetail_Send_message"
+msgstr "Send Message"
+
+#: .\templates\cars\car_detail.html:170
+msgid "carDetail_refine_your_Search"
+msgstr "Refine Your Search"
+
+#: .\templates\cars\car_detail.html:173
+msgid "carDetail_color"
+msgstr "Color:"
+
+#: .\templates\cars\car_detail.html:176
+msgid "carDetail_model"
+msgstr "Model:"
+
+#: .\templates\cars\car_detail.html:180
+msgid "carDetail_year"
+msgstr "Year:"
+
+#: .\templates\cars\car_detail.html:183
+msgid "carDetail_condition"
+msgstr "Condition:"
+
+#: .\templates\cars\car_detail.html:186
+msgid "carDetail_body_style"
+msgstr "Body Style:"
+
+#: .\templates\cars\car_detail.html:189
+msgid "carDetail_engine"
+msgstr "Engine:"
+
+#: .\templates\cars\car_detail.html:192
+msgid "carDetail_transmission"
+msgstr "Transmission:"
+
+#: .\templates\cars\car_detail.html:195
+msgid "carDetail_interior"
+msgstr "Interior:"
+
+#: .\templates\cars\car_detail.html:198
+msgid "carDetail_miles"
+msgstr "Miles:"
+
+#: .\templates\cars\car_detail.html:201
+msgid "carDetail_doors"
+msgstr "Doors:"
+
+#: .\templates\cars\car_detail.html:204
+msgid "carDetail_passengers"
+msgstr "Passengers:"
+
+#: .\templates\cars\car_detail.html:207
+msgid "carDetail_vin_no"
+msgstr "Vin No:"
+
+#: .\templates\cars\car_detail.html:210
+msgid "carDetail_milage"
+msgstr "Milage:"
+
+#: .\templates\cars\car_detail.html:214
+msgid "carDetail_fuel_type"
+msgstr "Fuel Type:"
+
+#: .\templates\cars\car_detail.html:217
+msgid "carDetail_owners"
+msgstr "Owners:"
+
+#: .\templates\cars\car_detail.html:249
+msgid "carDetail_sendMessage_form_txt1"
+msgstr "Hello, My Name is"
+
+#: .\templates\cars\car_detail.html:263
+msgid "carDetail_sendMessage_forms_Select_choice_1"
+msgstr "I'm interested in this"
+
+#: .\templates\cars\car_detail.html:264
+msgid "carDetail_sendMessage_form_select_choice_2"
+msgstr "I'd like to know your best price for this"
+
+#: .\templates\cars\car_detail.html:265
+msgid "carDetail_sendMessage_form_select_choice_3"
+msgstr "I'd like to test drive this"
+
+#: .\templates\cars\car_detail.html:266
+msgid "carDetail_sendMessage_form_select_choice_4"
+msgstr "I'd like a history report for this"
+
+#: .\templates\cars\car_detail.html:275
+msgid "carDetail_sendMessage_form_txt2"
+msgstr "I live in"
+
+#: .\templates\cars\car_detail.html:289
+msgid "carDetail_sendMessage_form_txt3"
+msgstr "You can reach me by email at"
+
+#: .\templates\cars\car_detail.html:293
+msgid "carDetail_sendMessage_form_txt4"
+msgstr "or by phone at"
+
+#: .\templates\cars\car_detail.html:300
+msgid "carDetail_sendMessage_form_txt5"
+msgstr "Add comments"
+
+#: .\templates\cars\car_detail.html:304
+msgid "carDetail_sendMessage_form_button_send"
+msgstr "Send"
+
+#: .\templates\cars\cars.html:17
+msgid "cars_H1"
+msgstr "Our Car Inventory"
+
+#: .\templates\cars\cars.html:20
+msgid "cars_breadcrumb_2"
+msgstr "Cars"
+
+#: .\templates\cars\cars.html:42
+msgid "cars_ForRent"
+msgstr "For Rent "
+
+#: .\templates\cars\cars.html:154
+msgid "cars_sidebar-title"
+msgstr "Search your desire car"
+
+#: .\templates\cars\cars.html:162 .\templates\pages\home.html:88
+msgid "home_form_model"
+msgstr "Model"
+
+#: .\templates\cars\cars.html:172 .\templates\pages\home.html:98
+msgid "home_form_location"
+msgstr "Location"
+
+#: .\templates\cars\cars.html:181 .\templates\pages\home.html:107
+msgid "home_form_year"
+msgstr "Year"
+
+#: .\templates\cars\cars.html:190 .\templates\cars\search.html:74
+#: .\templates\pages\home.html:117
+msgid "home_form_carType"
+msgstr "Select Type Of Car "
+
+#: .\templates\cars\cars.html:198 .\templates\pages\home.html:126
+msgid "home_form_price"
+msgstr "Price"
+
+#: .\templates\cars\cars.html:204 .\templates\pages\home.html:140
+msgid "home_form_searchButton"
+msgstr "Search"
+
+#: .\templates\cars\cars.html:212
+msgid "cars_fllowUS"
+msgstr "Follow us "
+
+#: .\templates\cars\search.html:12
+msgid "search_result_search_txt"
+msgstr "Search Results"
+
+#: .\templates\cars\search.html:15
+msgid "search_breadcrumb_2"
+msgstr "Search"
+
+#: .\templates\cars\search.html:33
+msgid "search_select_model"
+msgstr "Select Model"
+
+#: .\templates\cars\search.html:46
+msgid "search_select_location"
+msgstr "Select Location"
+
+#: .\templates\cars\search.html:59
+msgid "search_select_year"
+msgstr "Select year"
+
+#: .\templates\cars\search.html:87
+msgid "search_select_transmission"
+msgstr "Transmission"
+
+#: .\templates\cars\search.html:115
+msgid "search_find"
+msgstr "Find"
+
+#: .\templates\cars\search.html:132
+msgid "search_here_is_your_car"
+msgstr "Here's your"
+
+#: .\templates\cars\search.html:132
+msgid "search_car_txt"
+msgstr "Cars"
+
+#: .\templates\cars\search.html:133
+msgid "here_is_desc"
+msgstr "Explore a World of Automotive Excellence"
+
+#: .\templates\cars\search.html:141 .\templates\pages\home.html:285
+msgid "home_ForSale_txt"
+msgstr "For Sale"
+
+#: .\templates\includes\navbar.html:24
+msgid "navHome"
+msgstr "Home"
+
+#: .\templates\includes\navbar.html:37
+msgid "navCars"
+msgstr "Cars"
+
+#: .\templates\includes\navbar.html:52
+msgid "navAbout"
+msgstr "About"
+
+#: .\templates\includes\navbar.html:67
+msgid "navServices"
+msgstr "Services"
+
+#: .\templates\includes\navbar.html:84
+msgid "navContact"
+msgstr "Contact"
+
+#: .\templates\pages\about.html:14
+msgid "about_h1"
+msgstr "ABOUT US "
+
+#: .\templates\pages\about.html:17
+msgid "about_breadcrumbs_2"
+msgstr "About"
+
+#: .\templates\pages\about.html:71
+msgid "about_text_1"
+msgstr ""
+"Welcome to Car House, where our passion for cars meets your automotive "
+"dreams. With [Number of Years] years of experience, we've become a trusted "
+"name in the industry, known for our exceptional selection of vehicles and "
+"unwavering commitment to customer satisfaction."
+
+#: .\templates\pages\about.html:72
+msgid "about_text_2"
+msgstr ""
+"At Car House, we're not just here to sell cars; we're here to help you find "
+"the perfect car. Our expert team is dedicated to guiding you through every "
+"step of the car-buying process, ensuring you drive away with a vehicle that "
+"suits your needs and preferences. Explore our carefully curated inventory, "
+"experience top-notch customer service, and become a part of our vibrant "
+"automotive community. Join us at [Your Car Dealer Society Name] and let your"
+" automotive journey begin."
+
+#: .\templates\pages\about.html:87 .\templates\pages\home.html:370
+msgid "home_executive_txt"
+msgstr "Executive"
+
+#: .\templates\pages\about.html:87 .\templates\pages\home.html:370
+msgid "home_team_txt"
+msgstr "Team"
+
+#: .\templates\pages\about.html:88
+msgid "about_teams_desc"
+msgstr "Meet the driving force behind Car House. "
+
+#: .\templates\pages\contact.html:13
+msgid "contact_h1"
+msgstr "Contact Us"
+
+#: .\templates\pages\contact.html:16
+msgid "contact_breadcrumb_2"
+msgstr "Contact Us"
+
+#: .\templates\pages\contact.html:29
+msgid "contact_contact"
+msgstr "Contact"
+
+#: .\templates\pages\contact.html:29
+msgid "contact_us"
+msgstr "Us"
+
+#: .\templates\pages\contact.html:30
+msgid "contact_desc"
+msgstr "Feel free to contact us for any questions or inquiries."
+
+#: .\templates\pages\contact.html:39
+msgid "conatct_from_full_name"
+msgstr "Full Name"
+
+#: .\templates\pages\contact.html:44
+msgid "conatct_form_email"
+msgstr "Email"
+
+#: .\templates\pages\contact.html:49
+msgid "conatct_form_subject"
+msgstr "Subject"
+
+#: .\templates\pages\contact.html:54
+msgid "conatct_from_phone"
+msgstr "Phone Number"
+
+#: .\templates\pages\contact.html:59
+msgid "conatct_form_send_message"
+msgstr "Write message"
+
+#: .\templates\pages\contact.html:64
+msgid "conatct_send_message"
+msgstr "Send Message"
+
+#: .\templates\pages\contact.html:76
+msgid "conatct_phone"
+msgstr "Phone:"
+
+#: .\templates\pages\contact.html:85
+msgid "conatct_email"
+msgstr "Email:"
+
+#: .\templates\pages\contact.html:94
+msgid "conatct_web"
+msgstr "Web:"
+
+#: .\templates\pages\contact.html:103
+msgid "conatct_fax"
+msgstr "Fax:"
+
+#: .\templates\pages\home.html:29
+msgid "home_bannerH3_1"
+msgstr "Wow Factor Standard "
+
+#: .\templates\pages\home.html:31 .\templates\pages\home.html:48
+#: .\templates\pages\home.html:65
+msgid "home_bannerH5_1"
+msgstr "Allow us to guide you through the innovative stress "
+
+#: .\templates\pages\home.html:32 .\templates\pages\home.html:49
+#: .\templates\pages\home.html:66
+msgid "home_bannerH5_2"
+msgstr "free approach in finding your dream car."
+
+#: .\templates\pages\home.html:35 .\templates\pages\home.html:52
+#: .\templates\pages\home.html:69
+msgid "home_bannerButton"
+msgstr "Read more"
+
+#: .\templates\pages\home.html:46
+msgid "home_bannerH3_2"
+msgstr "Explore Your Dream Car"
+
+#: .\templates\pages\home.html:63
+msgid "home_bannerH3_3"
+msgstr "We Are Wheel "
+
+#: .\templates\pages\home.html:178 .\templates\pages\home.html:193
+msgid "home_Featured_txt"
+msgstr "Featured"
+
+#: .\templates\pages\home.html:178
+msgid "home_cars_txt_featured"
+msgstr "Cars"
+
+#: .\templates\pages\home.html:276
+msgid "home_latest_txt"
+msgstr "Latest"
+
+#: .\templates\pages\home.html:276
+msgid "home_cars_txt_latest"
+msgstr "Cars"
+
+#: .\templates\pages\home.html:432
+msgid "home_doYouHaveQuestion_txt"
+msgstr "Do You Have Questions ?"
+
+#: .\templates\pages\home.html:436
+msgid "home_getInTouch_txt"
+msgstr "Get in Touch "
+
+#: .\templates\pages\services.html:16
+msgid "services_breadcrumb_2"
+msgstr "Services"
+
+#: .\templates\pages\services.html:28 .\templates\pages\services.html:158
+msgid "services_our_txt"
+msgstr "Our"
+
+#: .\templates\pages\services.html:28
+msgid "services_services_txt"
+msgstr "Services"
+
+#: .\templates\pages\services.html:29
+msgid "services_desc_txt"
+msgstr ""
+"Delivering excellence in support, speed, repair, and more to meet your "
+"unique needs."
+
+#: .\templates\pages\services.html:39
+msgid "services_free_support"
+msgstr "Free Support"
+
+#: .\templates\pages\services.html:40
+msgid "services_free_support_desc"
+msgstr ""
+"Our complimentary support is here to assist you promptly, ensuring your "
+"questions and concerns are addressed with expert guidance and care. We're "
+"dedicated to helping you make the most of our products and services, free of"
+" charge."
+
+#: .\templates\pages\services.html:51
+msgid "services_super_fast"
+msgstr "Super Fast"
+
+#: .\templates\pages\services.html:52
+msgid "services_super_fast_desc"
+msgstr ""
+"Choose our \"Super Fast\" option for lightning-speed service that delivers "
+"immediate results, whether it's lightning-quick deliveries or rapid response"
+" times. We prioritize speed and efficiency to meet your needs with unmatched"
+" swiftness."
+
+#: .\templates\pages\services.html:63
+msgid "services_repairing"
+msgstr "Repairing"
+
+#: .\templates\pages\services.html:64
+msgid "services_repairing_desc"
+msgstr ""
+"Our professional repair services are your solution for restoring your "
+"valuable items to their optimal condition. Trust our skilled technicians to "
+"fix, mend, and refurbish with precision and care, so you can enjoy your "
+"items as good as new."
+
+#: .\templates\pages\services.html:75
+msgid "services_air_conditioning"
+msgstr "Air Conditioning"
+
+#: .\templates\pages\services.html:76
+msgid "services_air_conditioning_desc"
+msgstr ""
+"Experience unparalleled comfort with our air conditioning services. We "
+"ensure your system runs efficiently, keeping your environment cool and "
+"comfortable. Trust us for expert AC maintenance, repairs, and installations "
+"to beat the heat with ease."
+
+#: .\templates\pages\services.html:87
+msgid "services_oil_change"
+msgstr "Oil Change"
+
+#: .\templates\pages\services.html:88
+msgid "services_oil_change_desc"
+msgstr ""
+"Keep your engine running smoothly with our quick and efficient oil change "
+"service. Our expert technicians provide top-notch oil changes to ensure your"
+" vehicle's longevity and peak performance. Schedule an appointment today to "
+"keep your engine in excellent condition."
+
+#: .\templates\pages\services.html:99
+msgid "services_engine_repair"
+msgstr "Engine Repair"
+
+#: .\templates\pages\services.html:100
+msgid "services_engine_repair_desc"
+msgstr ""
+"When your engine needs attention, trust our skilled technicians for "
+"comprehensive engine repair services. We diagnose, repair, and restore your "
+"engine's performance, ensuring your vehicle runs at its best. Count on us to"
+" keep your engine running smoothly and reliably."
+
+#: .\templates\pages\services.html:111
+msgid "services_dealership"
+msgstr "Dealership"
+
+#: .\templates\pages\services.html:112
+msgid "services_dealership_desc"
+msgstr ""
+"Visit our dealership for a premium automotive experience. Explore a wide "
+"range of vehicles, expert advice, and exceptional customer service. We're "
+"your trusted partner in finding the perfect vehicle to meet your needs. Come"
+" discover excellence at our dealership today."
+
+#: .\templates\pages\services.html:123
+msgid "services_security"
+msgstr "Security"
+
+#: .\templates\pages\services.html:124
+msgid "services_security_desc"
+msgstr ""
+"Your safety is our priority. We offer robust security solutions to protect "
+"what matters most. From cutting-edge technology to expert advice, trust us "
+"to safeguard your assets and provide you with peace of mind."
+
+#: .\templates\pages\services.html:135
+msgid "services_trusted_agents"
+msgstr "Trusted Agents"
+
+#: .\templates\pages\services.html:136
+msgid "services_trusted_agents_desc"
+msgstr ""
+"Our team of dedicated and reliable agents is here to assist you with "
+"professionalism and integrity. Count on us for expert guidance and support, "
+"knowing that you have trusted partners by your side to help you achieve your"
+" goals. Your satisfaction is our mission."
+
+#: .\templates\pages\services.html:159
+msgid "services_our_services_des_ph1"
+msgstr ""
+"Explore a world of convenience and expertise with our comprehensive "
+"services. Our dedicated support team ensures prompt responses to your "
+"inquiries and concerns, while our lightning-fast solutions deliver immediate"
+" results. Whether you require expert repairs, efficient air conditioning "
+"maintenance, or reliable security solutions, our commitment to excellence "
+"shines through."
+
+#: .\templates\pages\services.html:160
+msgid "services_our_services_des_ph2"
+msgstr ""
+"At Car House, we pride ourselves on delivering unmatched quality and trust. "
+"Our skilled technicians provide precision in every repair, and we extend our"
+" dedication to your comfort by optimizing your vehicle's air conditioning "
+"system. With a focus on security, we offer robust solutions to safeguard "
+"your assets, providing you with peace of mind. Our team of trusted agents is"
+" committed to guiding you with professionalism and integrity, making us your"
+" preferred partner. Explore our services today and experience the "
+"difference."
+
+#~ msgid "about_breadcrumb_2"
+#~ msgstr "Contact Us"
+
+#~ msgid "Titre de la voiture"
+#~ msgstr "Car Title"
+
+#~ msgid "État"
+#~ msgstr "State"
+
+#~ msgid "Ville"
+#~ msgstr "City"
+
+#~ msgid "Couleur"
+#~ msgstr "Color"
+
+#~ msgid "Modèle"
+#~ msgstr "Model"
+
+#~ msgid "Année"
+#~ msgstr "Year"
+
+#~ msgid "Prix"
+#~ msgstr "Price"
+
+#~ msgid "Photo de la voiture"
+#~ msgstr "Car Photo"
+
+#~ msgid "Photo de la voiture 1"
+#~ msgstr "Car Photo 1"
+
+#~ msgid "Photo de la voiture 2"
+#~ msgstr "Car Photo 2"
+
+#~ msgid "Photo de la voiture 3"
+#~ msgstr "Car Photo 3"
+
+#~ msgid "Photo de la voiture 4"
+#~ msgstr "Car Photo 4"
+
+#~ msgid "Fonctionnalités"
+#~ msgstr "Features"
+
+#~ msgid "Style de carrosserie"
+#~ msgstr "Body Style"
+
+#~ msgid "Moteur"
+#~ msgstr "Engine"
+
+#~ msgid "Intérieur"
+#~ msgstr "Interior"
+
+#~ msgid "Kilométrage"
+#~ msgstr "Mileage"
+
+#~ msgid "Nombre de portes"
+#~ msgstr "Number of doors"
+
+#~ msgid "Nombre de passagers"
+#~ msgstr "Number of passengers"
+
+#~ msgid "Numéro de VIN"
+#~ msgstr "VIN Number"
+
+#~ msgid "Consommation"
+#~ msgstr "Fuel Consumption"
+
+#~ msgid "Type de carburant"
+#~ msgstr "Fuel Type"
+
+#~ msgid "Nombre de propriétaires"
+#~ msgstr "Number of Owners"
+
+#~ msgid "En vedette"
+#~ msgstr "Featured"

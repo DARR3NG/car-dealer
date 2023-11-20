@@ -1,0 +1,175 @@
+{% extends 'base.html' %}
+
+{% block title %} | Our Services {% endblock title %} 
+
+{% block content %}
+{% load static %}
+{% load i18n %}
+
+<!-- Sub banner start -->
+<div class="sub-banner overview-bgi">
+    <div class="container breadcrumb-area">
+        <div class="breadcrumb-areas">
+            <h1>Services</h1>
+            <ul class="breadcrumbs">
+                <li><a href="{% url 'home' %}"> {% trans "cars_breadcrumb_1" %}</a></li>
+                <li class="active"> {% trans "services_breadcrumb_2" %}</li>
+            </ul>
+        </div>
+    </div>
+</div>
+<!-- Sub Banner end -->
+
+<!-- Services start -->
+<div class="services content-area">
+    <div class="container">
+        <!-- Main title -->
+        <div class="main-title text-center">
+            <h1> {% trans "services_our_txt" %} <span>  {% trans "services_services_txt" %}</span></h1>
+            <p>{% trans "services_desc_txt" %}</p>
+        </div>
+        <div class="row">
+            <div class="col-lg-4 col-md-6 col-sm-6">
+                <div class="service-info">
+                    <div class="number">1</div>
+                    <div class="icon">
+                        <i class="flaticon-support-2"></i>
+                    </div>
+                    <div class="detail">
+                        <h3> {% trans "services_free_support" %}</h3>
+                        <p> {% trans "services_free_support_desc" %}</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-4 col-md-6 col-sm-6">
+                <div class="service-info">
+                    <div class="number">2</div>
+                    <div class="icon">
+                        <i class="flaticon-speed"></i>
+                    </div>
+                    <div class="detail">
+                        <h3> {% trans "services_super_fast" %}</h3>
+                        <p> {% trans "services_super_fast_desc" %}</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-4 col-md-6 col-sm-6">
+                <div class="service-info">
+                    <div class="number">3</div>
+                    <div class="icon">
+                        <i class="flaticon-motor"></i>
+                    </div>
+                    <div class="detail">
+                        <h3> {% trans "services_repairing" %}</h3>
+                        <p>  {% trans "services_repairing_desc" %}</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-4 col-md-6 col-sm-6">
+                <div class="service-info">
+                    <div class="number">4</div>
+                    <div class="icon">
+                        <i class="flaticon-air-conditioner"></i>
+                    </div>
+                    <div class="detail">
+                        <h3>  {% trans "services_air_conditioning" %}</h3>
+                        <p>{% trans "services_air_conditioning_desc" %}</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-4 col-md-6 col-sm-6">
+                <div class="service-info">
+                    <div class="number">5</div>
+                    <div class="icon">
+                        <i class="flaticon-fuel"></i>
+                    </div>
+                    <div class="detail">
+                        <h3> {% trans "services_oil_change" %}</h3>
+                        <p>  {% trans "services_oil_change_desc" %}</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-4 col-md-6 col-sm-6">
+                <div class="service-info">
+                    <div class="number">7</div>
+                    <div class="icon">
+                        <i class="flaticon-wheel"></i>
+                    </div>
+                    <div class="detail">
+                        <h3>{% trans "services_engine_repair" %}</h3>
+                        <p>  {% trans "services_engine_repair_desc" %}</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-4 col-md-6 col-sm-6">
+                <div class="service-info">
+                    <div class="number">6</div>
+                    <div class="icon">
+                        <i class="flaticon-car-2"></i>
+                    </div>
+                    <div class="detail">
+                        <h3>  {% trans "services_dealership" %}</h3>
+                        <p>  {% trans "services_dealership_desc" %}</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-4 col-md-6 col-sm-6">
+                <div class="service-info">
+                    <div class="number">8</div>
+                    <div class="icon">
+                        <i class="flaticon-lock"></i>
+                    </div>
+                    <div class="detail">
+                        <h3> {% trans "services_security" %}</h3>
+                        <p>  {% trans "services_security_desc" %}</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-4 col-md-6 col-sm-6">
+                <div class="service-info">
+                    <div class="number">9</div>
+                    <div class="icon">
+                        <i class="flaticon-deal"></i>
+                    </div>
+                    <div class="detail">
+                        <h3> {% trans "services_trusted_agents" %}</h3>
+                        <p>{% trans "services_trusted_agents_desc" %}</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- Services end -->
+
+
+
+<!-- Service center strat -->
+<div class="service-center content-area-5">
+    <div class="container">
+        <div class="row">
+            <div class="col-xl-6 col-lg-6 col-md-12 col-sm-12 col-xs-12">
+                <div class="inside-car service-car">
+                    <iframe src="https://www.youtube.com/embed/5e0LxrLSzok" allowfullscreen=""></iframe>
+                </div>
+            </div>
+            <div class="col-xl-6 col-lg-6 col-md-12 col-sm-12 col-xs-12">
+                <div class="about-text">
+                    <h3> {% trans "services_our_txt" %} Services<span>Video</span></h3>
+                    <p> {% trans "services_our_services_des_ph1" %}</p>
+                    <p class="mb-0">  {% trans "services_our_services_des_ph2" %}</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- Service center end -->
+
+
+
+
+{% endblock content %}
+
+
+
+
