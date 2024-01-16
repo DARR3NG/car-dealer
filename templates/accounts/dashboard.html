@@ -54,7 +54,7 @@
                     <a href="#">{{inquiry.car_title}}</a>
                 </td>
                 <td class="d_none">{{inquiry.city}}</td>
-                <td>${{inquiry.price | intcomma}}</td>
+                <td>{{inquiry.price | intcomma}} Dhs</td>
                 <td><a href="{% url 'car_detail' inquiry.car_id %}" class="btn btn-outline-dark"> {% trans "dashboard_view_car" %}</a></td>
                 
             </tr>

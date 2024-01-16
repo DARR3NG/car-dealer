@@ -1,0 +1,1261 @@
+[
+{
+    "model": "contacts.contact",
+    "pk": 1,
+    "fields": {
+        "first_name": "otmane",
+        "last_name": "elkastali",
+        "car_id": 2,
+        "customer_need": "I'm interested in this",
+        "car_title": "2017 Ford Edge",
+        "car_photo": "photos/2023/09/29/1894300905.jpg",
+        "price": 100000,
+        "city": "Marrakech",
+        "state": "Marrakech-Safi",
+        "email": "elkastaliotmane@gmail.com",
+        "phone": "0627498914",
+        "message": "",
+        "user_id": 0,
+        "created_at": "2023-10-14T13:30:27.942Z"
+    }
+},
+{
+    "model": "contacts.contact",
+    "pk": 2,
+    "fields": {
+        "first_name": "otmane",
+        "last_name": "elkastali",
+        "car_id": 2,
+        "customer_need": "I'm interested in this",
+        "car_title": "2017 Ford Edge",
+        "car_photo": "photos/2023/09/29/1894300905.jpg",
+        "price": 100000,
+        "city": "Marrakech",
+        "state": "Marrakech-Safi",
+        "email": "elkastaliotmane@gmail.com",
+        "phone": "0627498914",
+        "message": "",
+        "user_id": 0,
+        "created_at": "2023-10-14T13:30:59.253Z"
+    }
+},
+{
+    "model": "contacts.contact",
+    "pk": 3,
+    "fields": {
+        "first_name": "otmane",
+        "last_name": "elkastali",
+        "car_id": 2,
+        "customer_need": "I'm interested in this",
+        "car_title": "2017 Ford Edge",
+        "car_photo": "photos/2023/09/29/1894300905.jpg",
+        "price": 100000,
+        "city": "Marrakech",
+        "state": "Marrakech-Safi",
+        "email": "elkastali.otmane05@gmail.com",
+        "phone": "0627498914",
+        "message": "",
+        "user_id": 0,
+        "created_at": "2023-10-14T13:31:20.870Z"
+    }
+},
+{
+    "model": "contacts.contact",
+    "pk": 4,
+    "fields": {
+        "first_name": "otmane",
+        "last_name": "elkastali",
+        "car_id": 1,
+        "customer_need": "I'm interested in this",
+        "car_title": "2017 Ferrari 488 GTB",
+        "car_photo": "photos/2023/09/29/1902536891.jpg",
+        "price": 10000,
+        "city": "Marrakech",
+        "state": "Marrakesh-Safi",
+        "email": "elkastaliotmane@gmail.com",
+        "phone": "0627498914",
+        "message": "zabzabzabz",
+        "user_id": 1,
+        "created_at": "2023-10-24T14:33:36.958Z"
+    }
+},
+{
+    "model": "contacts.contact",
+    "pk": 5,
+    "fields": {
+        "first_name": "otmane",
+        "last_name": "test",
+        "car_id": 1,
+        "customer_need": "I'd like to know your best price for this",
+        "car_title": "2017 Ferrari 488 GTB",
+        "car_photo": "photos/2023/09/29/1902536891.jpg",
+        "price": 10000,
+        "city": "Marrakech",
+        "state": "Marrakech-Safi",
+        "email": "elkastali.otmane05@gmail.com",
+        "phone": "0627498914",
+        "message": "sdfsdfsd",
+        "user_id": 0,
+        "created_at": "2023-11-26T11:45:32.377Z"
+    }
+},
+{
+    "model": "contacts.contact",
+    "pk": 6,
+    "fields": {
+        "first_name": "otmane",
+        "last_name": "elkastali",
+        "car_id": 5,
+        "customer_need": "I'd like to know your best price for this",
+        "car_title": "HYUNDAI",
+        "car_photo": "photos/2023/11/26/HYUNDAI_I_20_1.4_MPI_100_INVENTIVE-2.jpeg",
+        "price": 160000,
+        "city": "Marrakech",
+        "state": "Marrakech-Safi",
+        "email": "elkastali.otmane05@gmail.com",
+        "phone": "0627498914",
+        "message": "",
+        "user_id": 5,
+        "created_at": "2023-11-26T20:18:13.984Z"
+    }
+},
+{
+    "model": "pages.teamtranslation",
+    "pk": 1,
+    "fields": {
+        "language_code": "en",
+        "first_name": "otmane",
+        "last_name": "elkastali",
+        "designation": "CEO",
+        "master": 1
+    }
+},
+{
+    "model": "pages.teamtranslation",
+    "pk": 2,
+    "fields": {
+        "language_code": "fr",
+        "first_name": "otmane",
+        "last_name": "elkastali",
+        "designation": "PDG",
+        "master": 1
+    }
+},
+{
+    "model": "pages.teamtranslation",
+    "pk": 3,
+    "fields": {
+        "language_code": "en",
+        "first_name": "Ahmed",
+        "last_name": "Mansouri",
+        "designation": "Architect",
+        "master": 2
+    }
+},
+{
+    "model": "pages.teamtranslation",
+    "pk": 4,
+    "fields": {
+        "language_code": "fr",
+        "first_name": "Ahmed",
+        "last_name": "Mansouri",
+        "designation": "architecte",
+        "master": 2
+    }
+},
+{
+    "model": "pages.teamtranslation",
+    "pk": 5,
+    "fields": {
+        "language_code": "en",
+        "first_name": "Amina",
+        "last_name": "Benhaddou",
+        "designation": "Chef",
+        "master": 3
+    }
+},
+{
+    "model": "pages.teamtranslation",
+    "pk": 6,
+    "fields": {
+        "language_code": "fr",
+        "first_name": "Amina",
+        "last_name": "Benhaddou",
+        "designation": "Chef",
+        "master": 3
+    }
+},
+{
+    "model": "pages.team",
+    "pk": 1,
+    "fields": {
+        "photo": "photos/2023/09/29/avatar-3.jpg",
+        "facebook_link": "https://www.facebook.com/",
+        "twitter_link": "https://twitter.com/?lang=fr",
+        "google_plus_link": "https://mail.google.com/mail/u/0/#inbox",
+        "created_date": "2023-09-29T17:57:25.094Z"
+    }
+},
+{
+    "model": "pages.team",
+    "pk": 2,
+    "fields": {
+        "photo": "photos/2023/11/26/avatar-12.jpg",
+        "facebook_link": "https://www.facebook.com/",
+        "twitter_link": "https://twitter.com/?lang=fr",
+        "google_plus_link": "https://mail.google.com/mail/u/0/#inbox",
+        "created_date": "2023-11-26T12:16:43.724Z"
+    }
+},
+{
+    "model": "pages.team",
+    "pk": 3,
+    "fields": {
+        "photo": "photos/2023/11/26/avatar-9.jpg",
+        "facebook_link": "https://www.facebook.com/",
+        "twitter_link": "https://twitter.com/?lang=fr",
+        "google_plus_link": "https://mail.google.com/mail/u/0/#inbox",
+        "created_date": "2023-11-26T12:17:49.962Z"
+    }
+},
+{
+    "model": "cars.cartranslation",
+    "pk": 1,
+    "fields": {
+        "language_code": "en",
+        "color": "white",
+        "condition": "used",
+        "description": "<p>&quot;The Ferrari 488 GTB is a sports car from the Italian manufacturer Ferrari, introduced in 2015. It is the brand&#39;s first mid-rear-engine V8 twin-turbocharged car since the F40. It was unveiled to the press on February 3, 2015.</p>\r\n\r\n<p>The name &quot;488&quot; departs from that of the 458 Italia (as well as the berlinettas that preceded it), where &quot;458&quot; denoted a displacement of 4.5 liters and eight cylinders. This time, &quot;488&quot; indicates the volume of one cylinder in cubic centimeters, which, when multiplied by 8, indeed equals 3.9 liters. The designation &quot;GTB&quot; stands for &quot;Gran Turismo Berlinetta.&quot;</p>",
+        "transmission": "Automatic",
+        "interior": "Black",
+        "fuel_type": "Petrole",
+        "master": 1
+    }
+},
+{
+    "model": "cars.cartranslation",
+    "pk": 2,
+    "fields": {
+        "language_code": "fr",
+        "color": "blanche",
+        "condition": "utilse",
+        "description": "<p>La&nbsp;<strong>Ferrari 488 GTB</strong>&nbsp;est une&nbsp;<a href=\"https://fr.wikipedia.org/wiki/Voiture_de_sport\" title=\"Voiture de sport\">voiture de sport</a>&nbsp;du&nbsp;<a href=\"https://fr.wikipedia.org/wiki/Constructeur_automobile\" title=\"Constructeur automobile\">constructeur</a>&nbsp;<a href=\"https://fr.wikipedia.org/wiki/Italie\" title=\"Italie\">italien</a>&nbsp;<a href=\"https://fr.wikipedia.org/wiki/Ferrari_(entreprise)\" title=\"Ferrari (entreprise)\">Ferrari</a>&nbsp;commercialis&eacute;e &agrave; partir de 2015. C&#39;est la premi&egrave;re voiture de la marque &agrave;&nbsp;<a href=\"https://fr.wikipedia.org/wiki/Moteur_V8\" title=\"Moteur V8\">moteur V8</a>&nbsp;double turbo en position centrale arri&egrave;re depuis la&nbsp;<a href=\"https://fr.wikipedia.org/wiki/Ferrari_F40\" title=\"Ferrari F40\">F40</a>. Elle a &eacute;t&eacute; d&eacute;voil&eacute;e &agrave; la presse le 3 f&eacute;vrier 2015<a href=\"https://fr.wikipedia.org/wiki/Ferrari_488_GTB#cite_note-mot1-1\">1</a>.</p>\r\n\r\n<p>L&#39;appellation de la 488 rompt avec celle de la 458 Italia (mais aussi des berlinettes qui ont pr&eacute;c&eacute;d&eacute; cette derni&egrave;re) dont le chiffre &laquo;&nbsp;458&nbsp;&raquo; signifiait une cylindr&eacute;e de&nbsp;4,5&nbsp;litres et huit cylindres. Cette fois-ci, le &laquo;&nbsp;488&nbsp;&raquo; indique le volume d&#39;un cylindre en cm3, qui multipli&eacute; par 8 donne bien&nbsp;3,9&nbsp;L, l&#39;appellation &quot;GTB&quot; signifiant &laquo;&nbsp;Gran Turismo Berlinetta&nbsp;&raquo;.</p>",
+        "transmission": "Automatique",
+        "interior": "noire",
+        "fuel_type": "Petrol",
+        "master": 1
+    }
+},
+{
+    "model": "cars.cartranslation",
+    "pk": 3,
+    "fields": {
+        "language_code": "en",
+        "color": "black",
+        "condition": "used",
+        "description": "<p>tandard features of the SE model include 18-inch alloy wheels, automatic headlights, dual exhaust tips, an active grille shutter, an acoustic windshield, rear privacy glass, LED taillights, remote locking and unlocking, air-conditioning, 60/40-split folding and reclining rear seatbacks, a tilt-and-telescoping steering ...</p>",
+        "transmission": "Automatic",
+        "interior": "Grey",
+        "fuel_type": "Petrol",
+        "master": 2
+    }
+},
+{
+    "model": "cars.cartranslation",
+    "pk": 4,
+    "fields": {
+        "language_code": "fr",
+        "color": "Noire",
+        "condition": "utilse",
+        "description": "<p>Les caract&eacute;ristiques standard du mod&egrave;le SE comprennent des jantes en alliage de 18 pouces, des phares automatiques, des embouts d&#39;&eacute;chappement doubles, un volet de calandre actif, un pare-brise acoustique, des vitres arri&egrave;re teint&eacute;es, des feux arri&egrave;re &agrave; LED, une fermeture &agrave; distance avec verrouillage et d&eacute;verrouillage, la climatisation, des si&egrave;ges arri&egrave;re rabattables et inclinables en configuration 60/40, un volant inclinable et t&eacute;lescopique...</p>",
+        "transmission": "Automatique",
+        "interior": "noire",
+        "fuel_type": "Petrole",
+        "master": 2
+    }
+},
+{
+    "model": "cars.cartranslation",
+    "pk": 5,
+    "fields": {
+        "language_code": "en",
+        "color": "black",
+        "condition": "used",
+        "description": "<p>Le Volkswagen Touareg est un&nbsp;<strong>v&eacute;hicule automobile 4x4 de luxe du constructeur allemand Volkswagen</strong>. Il a &eacute;t&eacute; construit en coop&eacute;ration avec Porsche dont le mod&egrave;le Cayenne partage la plateforme, ainsi que l&#39;Audi Q7, m&ecirc;me s&#39;il existe de nombreuses diff&eacute;rences de style, d&#39;&eacute;quipement et de technologie.</p>",
+        "transmission": "Automatic",
+        "interior": "Black",
+        "fuel_type": "Diesel",
+        "master": 3
+    }
+},
+{
+    "model": "cars.cartranslation",
+    "pk": 6,
+    "fields": {
+        "language_code": "fr",
+        "color": "Noire",
+        "condition": "utilisé",
+        "description": "<p>Le&nbsp;<strong>Volkswagen Touareg</strong>&nbsp;est un v&eacute;hicule&nbsp;<a href=\"https://fr.wikipedia.org/wiki/Automobile\" title=\"\">automobile</a>&nbsp;<a href=\"https://fr.wikipedia.org/wiki/V%C3%A9hicule_tout-terrain\" title=\"Véhicule tout-terrain\">4x4</a>&nbsp;de luxe du&nbsp;<a href=\"https://fr.wikipedia.org/wiki/Constructeur_automobile\" title=\"Constructeur automobile\">constructeur</a>&nbsp;<a href=\"https://fr.wikipedia.org/wiki/Allemagne\" title=\"Allemagne\">allemand</a>&nbsp;<a href=\"https://fr.wikipedia.org/wiki/Volkswagen\" title=\"Volkswagen\">Volkswagen</a>. Il a &eacute;t&eacute; construit en coop&eacute;ration avec&nbsp;<a href=\"https://fr.wikipedia.org/wiki/Porsche\" title=\"Porsche\">Porsche</a>&nbsp;dont le mod&egrave;le&nbsp;<a href=\"https://fr.wikipedia.org/wiki/Porsche_Cayenne\" title=\"Porsche Cayenne\">Cayenne</a>&nbsp;partage la plateforme, ainsi que l&#39;<a href=\"https://fr.wikipedia.org/wiki/Audi_Q7\" title=\"Audi Q7\">Audi Q7</a><a href=\"https://fr.wikipedia.org/wiki/Volkswagen_Touareg#cite_note-1\">1</a>, m&ecirc;me s&#39;il existe de nombreuses diff&eacute;rences de style, d&#39;&eacute;quipement et de technologie. Le Touareg est le premier mod&egrave;le de 4x4 luxe produit par le groupe&nbsp;<a href=\"https://fr.wikipedia.org/wiki/VAG\" title=\"VAG\">VAG</a>. Elle est sortie en 2002. En&nbsp;mars 2007, elle re&ccedil;oit un restylage (assez l&eacute;ger&nbsp;: optiques, bas de carrosserie et quelques &eacute;l&eacute;ments int&eacute;rieurs). Elle porte le nom d&#39;un peuple de&nbsp;<a href=\"https://fr.wikipedia.org/wiki/Berb%C3%A8res\" title=\"Berbères\">Berb&egrave;res</a>&nbsp;nomades vivant dans le Sahara central (cf:&nbsp;<a href=\"https://fr.wikipedia.org/wiki/Touareg\" title=\"Touareg\">Touareg</a>). Elle est fabriqu&eacute;e en&nbsp;<a href=\"https://fr.wikipedia.org/wiki/Slovaquie\" title=\"Slovaquie\">Slovaquie</a>&nbsp;sur les lignes d&#39;assemblage de l&#39;Audi Q7 x Porsche Cayenne.</p>",
+        "transmission": "Automatique",
+        "interior": "noire",
+        "fuel_type": "Diesel",
+        "master": 3
+    }
+},
+{
+    "model": "cars.cartranslation",
+    "pk": 7,
+    "fields": {
+        "language_code": "en",
+        "color": "Blue",
+        "condition": "used",
+        "description": "<p>With it&#39;s appearance, the vehicle is very similar to its predecessor and impresses with&nbsp;<strong>refined details, distinctive lights, a built-in 9.3-inch touchscreen multimedia and modern style</strong>.</p>",
+        "transmission": "Automatic",
+        "interior": "Black",
+        "fuel_type": "Diesel",
+        "master": 4
+    }
+},
+{
+    "model": "cars.cartranslation",
+    "pk": 8,
+    "fields": {
+        "language_code": "fr",
+        "color": "Bleu",
+        "condition": "utilisé",
+        "description": "<p>La&nbsp;<strong>Clio V</strong>&nbsp;est une&nbsp;<a href=\"https://fr.wikipedia.org/wiki/Automobile\" title=\"Automobile\">automobile</a>&nbsp;<a href=\"https://fr.wikipedia.org/wiki/Segment_automobile#Segment_B_ou_B2_:_%C2%AB_citadines_/_polyvalentes_%C2%BB_ou_%C2%AB_sous-compactes_%C2%BB\" title=\"Segment automobile\">citadine</a>&nbsp;du&nbsp;<a href=\"https://fr.wikipedia.org/wiki/Constructeur_automobile\" title=\"Constructeur automobile\">constructeur automobile</a>&nbsp;<a href=\"https://fr.wikipedia.org/wiki/France\" title=\"\">fran&ccedil;ais</a>&nbsp;<a href=\"https://fr.wikipedia.org/wiki/Renault\" title=\"Renault\">Renault</a>, commercialis&eacute;e depuis le&nbsp;2 avril 2019<a href=\"https://fr.wikipedia.org/wiki/Renault_Clio_V#cite_note-1\">1</a>. Il s&#39;agit de la cinqui&egrave;me g&eacute;n&eacute;ration de Clio apr&egrave;s la&nbsp;<a href=\"https://fr.wikipedia.org/wiki/Renault_Clio_I\" title=\"Renault Clio I\">Clio&nbsp;I</a>&nbsp;de&nbsp;<a href=\"https://fr.wikipedia.org/wiki/1990\" title=\"1990\">1990</a>, la&nbsp;<a href=\"https://fr.wikipedia.org/wiki/Renault_Clio_II\" title=\"Renault Clio II\">Clio&nbsp;II</a>&nbsp;de&nbsp;<a href=\"https://fr.wikipedia.org/wiki/1998\" title=\"1998\">1998</a>, la&nbsp;<a href=\"https://fr.wikipedia.org/wiki/Renault_Clio_III\" title=\"Renault Clio III\">Clio&nbsp;III</a>&nbsp;en&nbsp;<a href=\"https://fr.wikipedia.org/wiki/2005\" title=\"2005\">2005</a>&nbsp;et la&nbsp;<a href=\"https://fr.wikipedia.org/wiki/Renault_Clio_IV\" title=\"Renault Clio IV\">Clio&nbsp;IV</a>&nbsp;de&nbsp;<a href=\"https://fr.wikipedia.org/wiki/2012\" title=\"2012\">2012</a>, vendues &agrave; 15 millions d&#39;exemplaires cumul&eacute;s. Elle est la premi&egrave;re g&eacute;n&eacute;ration de la lign&eacute;e Clio &agrave; voir sa production enti&egrave;rement d&eacute;localis&eacute;e hors de France<a href=\"https://fr.wikipedia.org/wiki/Renault_Clio_V#cite_note-2\">2</a>.</p>",
+        "transmission": "Automatique",
+        "interior": "noire",
+        "fuel_type": "Diesel",
+        "master": 4
+    }
+},
+{
+    "model": "cars.cartranslation",
+    "pk": 9,
+    "fields": {
+        "language_code": "en",
+        "color": "Blue",
+        "condition": "used",
+        "description": "<p><strong>The second generation i20 has a new exterior and interior design, and a new 1.4-litre diesel engine</strong>. It was launched in August 2014 in India, and in November 2014 in Europe. The design of the car employs Hyundai&#39;s &#39;Fluidic Sculpture 2.0&#39; design philosophy.</p>",
+        "transmission": "Automatic",
+        "interior": "Black",
+        "fuel_type": "Petrole",
+        "master": 5
+    }
+},
+{
+    "model": "cars.cartranslation",
+    "pk": 10,
+    "fields": {
+        "language_code": "fr",
+        "color": "Bleu",
+        "condition": "utilisé",
+        "description": "<p>Avec une cylindr&eacute;e de 1197 cm3 et 4 cylindres, notre moteur d&#39;entr&eacute;e de gamme de 84 PS est une force douce avec laquelle il faut compter. Coupl&eacute; &agrave; une bo&icirc;te de vitesses manuelle &agrave; 5 rapports, ce moteur offre &agrave; la fois un contr&ocirc;le total et un couple agr&eacute;able.</p>",
+        "transmission": "Automatique",
+        "interior": "Black",
+        "fuel_type": "Essence",
+        "master": 5
+    }
+},
+{
+    "model": "cars.car",
+    "pk": 1,
+    "fields": {
+        "car_title": "2017 Ferrari 488 GTB",
+        "vin_no": "WBAEV33434KR59388",
+        "state": "Tanger-Tétouan-Al Hoceïma",
+        "city": "Tanger",
+        "model": "488 GTB",
+        "year": 2017,
+        "engine": "3.4L Mid.Engine V7",
+        "doors": "3",
+        "passengers": 2,
+        "price": 10000,
+        "car_photo": "photos/2023/09/29/1902536891.jpg",
+        "car_photo_1": "photos/2023/09/29/1902536917.jpg",
+        "car_photo_2": "photos/2023/09/29/1902537043.jpg",
+        "car_photo_3": "photos/2023/09/29/1902537077.jpg",
+        "car_photo_4": "photos/2023/09/29/1902537082.jpg",
+        "features": "Cruise Control,Audio Interface,Airbags,Air Conditioning,Reversing Camera,Direct Fuel Injection,Auto Start/Stop",
+        "body_style": "sports",
+        "miles": 10000,
+        "milage": 1000,
+        "no_of_owners": "2",
+        "is_featured": true,
+        "created_at": "2023-09-29T16:16:10.247Z"
+    }
+},
+{
+    "model": "cars.car",
+    "pk": 2,
+    "fields": {
+        "car_title": "2017 Ford Edge",
+        "vin_no": "1FDKF37G2VEB46627",
+        "state": "Casablanca-Settat",
+        "city": "casablanca",
+        "model": "Edge",
+        "year": 2017,
+        "engine": "3.4L Mid.Engine V7",
+        "doors": "3",
+        "passengers": 4,
+        "price": 100000,
+        "car_photo": "photos/2023/09/29/1894300905.jpg",
+        "car_photo_1": "photos/2023/09/29/1894300894.jpg",
+        "car_photo_2": "photos/2023/09/29/1894300920.jpg",
+        "car_photo_3": "photos/2023/09/29/1900155012.jpg",
+        "car_photo_4": "photos/2023/09/29/1900155133.jpg",
+        "features": "Alarm System,ParkAssist,Power Steering,Reversing Camera",
+        "body_style": "SUV",
+        "miles": 7000,
+        "milage": 89,
+        "no_of_owners": "2",
+        "is_featured": true,
+        "created_at": "2023-09-29T18:09:24.867Z"
+    }
+},
+{
+    "model": "cars.car",
+    "pk": 3,
+    "fields": {
+        "car_title": "VOLKSWAGEN TOUAREG",
+        "vin_no": "5S3ET13M572875925",
+        "state": "Fès-Meknès",
+        "city": "Maknes",
+        "model": "Touareg",
+        "year": 2014,
+        "engine": "3.6-liter six-cylinder",
+        "doors": "5",
+        "passengers": 5,
+        "price": 30000,
+        "car_photo": "photos/2023/11/26/VOLKSWAGEN_TOUAREG_3.0_L_V6_TDI_PULLMAN.jpeg",
+        "car_photo_1": "photos/2023/11/26/VOLKSWAGEN_TOUAREG_3.0_L_V6_TDI_PULLMAN-2.jpeg",
+        "car_photo_2": "photos/2023/11/26/VOLKSWAGEN_TOUAREG_3.0_L_V6_TDI_PULLMAN-3.jpeg",
+        "car_photo_3": "photos/2023/11/26/VOLKSWAGEN_TOUAREG_3.0_L_V6_TDI_PULLMAN-4.jpeg",
+        "car_photo_4": "photos/2023/11/26/VOLKSWAGEN_TOUAREG_3.0_L_V6_TDI_PULLMAN-5.jpeg",
+        "features": "Airbags,Air Conditioning,Alarm System,ParkAssist,Power Steering,Reversing Camera,Auto Start/Stop,Wind Deflector",
+        "body_style": "SUV",
+        "miles": 125066,
+        "milage": 220,
+        "no_of_owners": "2",
+        "is_featured": true,
+        "created_at": "2023-11-26T12:01:31.945Z"
+    }
+},
+{
+    "model": "cars.car",
+    "pk": 4,
+    "fields": {
+        "car_title": "Renault Clio 5",
+        "vin_no": "2GCEC19Z8L1159877",
+        "state": "Rabat-Salé-Kénitra",
+        "city": "Rabat",
+        "model": "Clio 5",
+        "year": 2021,
+        "engine": "1,6 litre 91 ch H4M",
+        "doors": "5",
+        "passengers": 5,
+        "price": 19000,
+        "car_photo": "photos/2023/11/26/RENAULT_CLIO_5_1.5_DCI_115_TECHNO.jpeg",
+        "car_photo_1": "photos/2023/11/26/RENAULT_CLIO_5_1.5_DCI_115_TECHNO-2.jpeg",
+        "car_photo_2": "photos/2023/11/26/RENAULT_CLIO_5_1.5_DCI_115_TECHNO-3.jpg",
+        "car_photo_3": "photos/2023/11/26/RENAULT_CLIO_5_1.5_DCI_115_TECHNO-4.jpg",
+        "car_photo_4": "photos/2023/11/26/RENAULT_CLIO_5_1.5_DCI_115_TECHNO-5.jpg",
+        "features": "Airbags,Air Conditioning,Seat Heating,Alarm System,ParkAssist,Power Steering",
+        "body_style": "sport",
+        "miles": 33793,
+        "milage": 200,
+        "no_of_owners": "1",
+        "is_featured": false,
+        "created_at": "2023-11-26T12:08:17.382Z"
+    }
+},
+{
+    "model": "cars.car",
+    "pk": 5,
+    "fields": {
+        "car_title": "HYUNDAI",
+        "vin_no": "2GCEC19Z8L1159877",
+        "state": "Casablanca-Settat",
+        "city": "casablanca",
+        "model": "I 20",
+        "year": 2022,
+        "engine": "1.2-litre Kappa",
+        "doors": "4",
+        "passengers": 5,
+        "price": 160000,
+        "car_photo": "photos/2023/11/26/HYUNDAI_I_20_1.4_MPI_100_INVENTIVE-2.jpeg",
+        "car_photo_1": "photos/2023/11/26/HYUNDAI_I_20_1.4_MPI_100_INVENTIVE-3.jpeg",
+        "car_photo_2": "photos/2023/11/26/HYUNDAI_I_20_1.4_MPI_100_INVENTIVE-4.jpeg",
+        "car_photo_3": "photos/2023/11/26/HYUNDAI_I_20_1.4_MPI_100_INVENTIVE-5.jpeg",
+        "car_photo_4": "photos/2023/11/26/HYUNDAI.jpeg",
+        "features": "Cruise Control,Audio Interface,Airbags,Air Conditioning,Seat Heating,Alarm System,ParkAssist,Power Steering",
+        "body_style": "sport",
+        "miles": 12667,
+        "milage": 200,
+        "no_of_owners": "1",
+        "is_featured": false,
+        "created_at": "2023-11-26T12:12:49.061Z"
+    }
+},
+{
+    "model": "auth.user",
+    "fields": {
+        "password": "pbkdf2_sha256$600000$6BOkfjWlk4vJ1gEpGu3ysA$6NG3HH7ftSz9ah1F5NyhQH7hhJkLIbGz7gPPz10IA7w=",
+        "last_login": "2023-11-26T21:04:09.890Z",
+        "is_superuser": true,
+        "username": "djangoadmin",
+        "first_name": "otmane",
+        "last_name": "elkastali",
+        "email": "elkastaliotmane@gmail.com",
+        "is_staff": true,
+        "is_active": true,
+        "date_joined": "2023-09-29T16:08:27Z",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "auth.user",
+    "fields": {
+        "password": "!G5wMnDb6RQHgWUx8CEIGcI5jiebSPRG8WY3HpXj5",
+        "last_login": "2023-10-14T13:05:24.908Z",
+        "is_superuser": false,
+        "username": "otmane",
+        "first_name": "Otmane",
+        "last_name": "Elkastali",
+        "email": "",
+        "is_staff": false,
+        "is_active": true,
+        "date_joined": "2023-10-04T11:11:26.899Z",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "auth.user",
+    "fields": {
+        "password": "!iahPZAjxcMQizT9ukQ17JQ8UNcBQhUtwEUyjz3yq",
+        "last_login": "2023-11-26T20:16:38.199Z",
+        "is_superuser": false,
+        "username": "otmane2",
+        "first_name": "Otmane",
+        "last_name": "Elkastali",
+        "email": "",
+        "is_staff": false,
+        "is_active": true,
+        "date_joined": "2023-11-26T20:04:12.069Z",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "auth.user",
+    "fields": {
+        "password": "!dWtrJKLW7ug7tJotawnEKy8eizX5mTxsdbVs1BnG",
+        "last_login": "2023-11-26T20:14:19.385Z",
+        "is_superuser": false,
+        "username": "otmane7",
+        "first_name": "Otmane",
+        "last_name": "Elkastali",
+        "email": "",
+        "is_staff": false,
+        "is_active": true,
+        "date_joined": "2023-11-26T20:14:19.359Z",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "auth.user",
+    "fields": {
+        "password": "pbkdf2_sha256$600000$G3N5fksIRmzdbHJ6W9pOqB$mbPjOjFVEU+n9XPm/wLZwig7sjgDyJVt4s40x11oZSM=",
+        "last_login": "2023-11-26T20:17:46.302Z",
+        "is_superuser": false,
+        "username": "DARR3NG",
+        "first_name": "otmane",
+        "last_name": "elkastali",
+        "email": "elkastali.otmane05@gmail.com",
+        "is_staff": false,
+        "is_active": true,
+        "date_joined": "2023-11-26T20:17:45.884Z",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "sessions.session",
+    "pk": "5df7ps090ip6q7t419o03tegm1nplhh9",
+    "fields": {
+        "session_data": "eyJzb2NpYWxhY2NvdW50X3N0YXRlIjpbeyJwcm9jZXNzIjoibG9naW4iLCJzY29wZSI6IiIsImF1dGhfcGFyYW1zIjoiIn0sIjFvN2NLaWJpMlRjWSJdfQ:1r7LL6:LMrKQFcD4OD4_z2OkZkNz6CII3gokJ2QJYHVI9qLXGw",
+        "expire_date": "2023-12-10T20:02:48.936Z"
+    }
+},
+{
+    "model": "sessions.session",
+    "pk": "fy60bvcnp9ye6xgw67pnz6bw4h4ej8xh",
+    "fields": {
+        "session_data": ".eJxVjEEOwiAQRe_C2hAKLQMu3fcMBGYGqRqalHZlvLtt0oVu_3vvv0WI21rC1ngJE4mr6MTld0sRn1wPQI9Y77PEua7LlOShyJM2Oc7Er9vp_h2U2MpeQ8y61yYltL4zBjw6YmQH_aCzYQ2JwBCizagGAFbkLaHZdVQYHYvPF_MNOM0:1qmG2c:Lv8657f4vJg-lU2GrPcVgiaoh1C02S6uhe6ZWGED7XI",
+        "expire_date": "2023-10-13T16:08:34.663Z"
+    }
+},
+{
+    "model": "sessions.session",
+    "pk": "n3hy3ctmfugk3wfklywpyksz9wix8obd",
+    "fields": {
+        "session_data": ".eJxVjEEOwiAQRe_C2hAKLQMu3fcMBGYGqRqalHZlvLtt0oVu_3vvv0WI21rC1ngJE4mr6MTld0sRn1wPQI9Y77PEua7LlOShyJM2Oc7Er9vp_h2U2MpeQ8y61yYltL4zBjw6YmQH_aCzYQ2JwBCizagGAFbkLaHZdVQYHYvPF_MNOM0:1qvIUv:ZhCJEI1zFwbkjgCJsJlVhufo4mEBiap55FyssfQZ4lE",
+        "expire_date": "2023-11-07T14:35:09.225Z"
+    }
+},
+{
+    "model": "sessions.session",
+    "pk": "z7reuudh6cr5d62x1u0vvj3wusd4y65w",
+    "fields": {
+        "session_data": ".eJxVjEEOwiAQRe_C2hAKLQMu3fcMBGYGqRqalHZlvLtt0oVu_3vvv0WI21rC1ngJE4mr6MTld0sRn1wPQI9Y77PEua7LlOShyJM2Oc7Er9vp_h2U2MpeQ8y61yYltL4zBjw6YmQH_aCzYQ2JwBCizagGAFbkLaHZdVQYHYvPF_MNOM0:1r7MIT:SJp-ueqWuK7-uY-5bOmt4hTA32l1uFfd44GGvKFwhig",
+        "expire_date": "2023-12-10T21:04:09.892Z"
+    }
+},
+{
+    "model": "sites.site",
+    "fields": {
+        "domain": "localhost:8000",
+        "name": "localhost:8000"
+    }
+},
+{
+    "model": "socialaccount.socialapp",
+    "pk": 2,
+    "fields": {
+        "provider": "facebook",
+        "name": "Facebook login",
+        "client_id": "1477650736351693",
+        "secret": "1755b85785e24c8304cd20627225523e",
+        "key": "",
+        "sites": [
+            [
+                "localhost:8000"
+            ]
+        ]
+    }
+},
+{
+    "model": "socialaccount.socialapp",
+    "pk": 3,
+    "fields": {
+        "provider": "google",
+        "name": "Google Login",
+        "client_id": "568895604077-hlmpa72r532l5rsgab19btb1a7o48m4t.apps.googleusercontent.com",
+        "secret": "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",
+        "key": "",
+        "sites": [
+            [
+                "localhost:8000"
+            ]
+        ]
+    }
+},
+{
+    "model": "socialaccount.socialaccount",
+    "pk": 2,
+    "fields": {
+        "user": [
+            "otmane2"
+        ],
+        "provider": "facebook",
+        "uid": "2869805856495877",
+        "last_login": "2023-11-26T20:16:38.186Z",
+        "date_joined": "2023-11-26T20:04:12.089Z",
+        "extra_data": "{\"id\": \"2869805856495877\", \"name\": \"Otmane Elkastali\", \"first_name\": \"Otmane\", \"last_name\": \"Elkastali\"}"
+    }
+},
+{
+    "model": "socialaccount.socialaccount",
+    "pk": 3,
+    "fields": {
+        "user": [
+            "otmane7"
+        ],
+        "provider": "google",
+        "uid": "117376004673073936217",
+        "last_login": "2023-11-26T20:14:19.373Z",
+        "date_joined": "2023-11-26T20:14:19.373Z",
+        "extra_data": "{\"iss\": \"https://accounts.google.com\", \"azp\": \"568895604077-hlmpa72r532l5rsgab19btb1a7o48m4t.apps.googleusercontent.com\", \"aud\": \"568895604077-hlmpa72r532l5rsgab19btb1a7o48m4t.apps.googleusercontent.com\", \"sub\": \"117376004673073936217\", \"at_hash\": \"lSodDUJF6rHNnOYsYmLAOw\", \"name\": \"Otmane Elkastali\", \"picture\": \"https://lh3.googleusercontent.com/a/ACg8ocKx2BEXAD60hdoi-BnFEtvXmCCUEFQe1up8svr9MPpW=s96-c\", \"given_name\": \"Otmane\", \"family_name\": \"Elkastali\", \"locale\": \"fr\", \"iat\": 1701029659, \"exp\": 1701033259}"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 1,
+    "fields": {
+        "action_time": "2023-09-29T16:16:10.260Z",
+        "user": [
+            "djangoadmin"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "1",
+        "object_repr": "2017 Ferrari 488 GTB",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 2,
+    "fields": {
+        "action_time": "2023-09-29T16:16:59.751Z",
+        "user": [
+            "djangoadmin"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "1",
+        "object_repr": "2017 Ferrari 488 GTB",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Color\", \"Condition\", \"Designation\", \"Body Style\", \"Transmission\", \"Interior\", \"Fuel Type\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 3,
+    "fields": {
+        "action_time": "2023-09-29T16:18:56.988Z",
+        "user": [
+            "djangoadmin"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "1",
+        "object_repr": "2017 Ferrari 488 GTB",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Body Style\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 4,
+    "fields": {
+        "action_time": "2023-09-29T16:19:29.155Z",
+        "user": [
+            "djangoadmin"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "1",
+        "object_repr": "2017 Ferrari 488 GTB",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Body Style\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 5,
+    "fields": {
+        "action_time": "2023-09-29T16:22:46.242Z",
+        "user": [
+            "djangoadmin"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "1",
+        "object_repr": "2017 Ferrari 488 GTB",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Car Photo 1\", \"Car Photo 2\", \"Car Photo 3 \", \"Car Photo 4\", \"Features\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 6,
+    "fields": {
+        "action_time": "2023-09-29T16:24:48.776Z",
+        "user": [
+            "djangoadmin"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "1",
+        "object_repr": "2017 Ferrari 488 GTB",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Is Featured\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 7,
+    "fields": {
+        "action_time": "2023-09-29T16:27:28.984Z",
+        "user": [
+            "djangoadmin"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "1",
+        "object_repr": "2017 Ferrari 488 GTB",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Fuel Type\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 8,
+    "fields": {
+        "action_time": "2023-09-29T17:57:25.108Z",
+        "user": [
+            "djangoadmin"
+        ],
+        "content_type": [
+            "pages",
+            "team"
+        ],
+        "object_id": "1",
+        "object_repr": "otmane",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 9,
+    "fields": {
+        "action_time": "2023-09-29T17:57:40.124Z",
+        "user": [
+            "djangoadmin"
+        ],
+        "content_type": [
+            "pages",
+            "team"
+        ],
+        "object_id": "1",
+        "object_repr": "otmane",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"First_name\", \"Last_name\", \"Designation\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 10,
+    "fields": {
+        "action_time": "2023-09-29T18:09:24.872Z",
+        "user": [
+            "djangoadmin"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "2",
+        "object_repr": "2017 Ford Edge",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 11,
+    "fields": {
+        "action_time": "2023-09-29T18:10:44.151Z",
+        "user": [
+            "djangoadmin"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "2",
+        "object_repr": "2017 Ford Edge",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Color\", \"Condition\", \"Designation\", \"Transmission\", \"Interior\", \"Fuel Type\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 12,
+    "fields": {
+        "action_time": "2023-09-29T18:26:36.533Z",
+        "user": [
+            "djangoadmin"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "1",
+        "object_repr": "2017 Ferrari 488 GTB",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Price\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 13,
+    "fields": {
+        "action_time": "2023-09-29T18:27:41.344Z",
+        "user": [
+            "djangoadmin"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "2",
+        "object_repr": "2017 Ford Edge",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"City\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 14,
+    "fields": {
+        "action_time": "2023-10-04T10:57:37.629Z",
+        "user": [
+            "djangoadmin"
+        ],
+        "content_type": [
+            "auth",
+            "user"
+        ],
+        "object_id": "1",
+        "object_repr": "djangoadmin",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"First name\", \"Last name\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 15,
+    "fields": {
+        "action_time": "2023-10-04T11:07:51.749Z",
+        "user": [
+            "djangoadmin"
+        ],
+        "content_type": [
+            "socialaccount",
+            "socialapp"
+        ],
+        "object_id": "1",
+        "object_repr": "Facebook login",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 16,
+    "fields": {
+        "action_time": "2023-10-04T11:08:28.992Z",
+        "user": [
+            "djangoadmin"
+        ],
+        "content_type": [
+            "sites",
+            "site"
+        ],
+        "object_id": "1",
+        "object_repr": "localhost:8000",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Domain name\", \"Display name\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 17,
+    "fields": {
+        "action_time": "2023-11-26T12:01:31.958Z",
+        "user": [
+            "djangoadmin"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "3",
+        "object_repr": "VOLKSWAGEN TOUAREG",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 18,
+    "fields": {
+        "action_time": "2023-11-26T12:02:34.346Z",
+        "user": [
+            "djangoadmin"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "3",
+        "object_repr": "VOLKSWAGEN TOUAREG",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Color\", \"Condition\", \"Designation\", \"Transmission\", \"Interior\", \"Fuel Type\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 19,
+    "fields": {
+        "action_time": "2023-11-26T12:08:17.391Z",
+        "user": [
+            "djangoadmin"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "4",
+        "object_repr": "Renault Clio 5",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 20,
+    "fields": {
+        "action_time": "2023-11-26T12:08:50.318Z",
+        "user": [
+            "djangoadmin"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "4",
+        "object_repr": "Renault Clio 5",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Color\", \"Condition\", \"Designation\", \"Transmission\", \"Interior\", \"Fuel Type\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 21,
+    "fields": {
+        "action_time": "2023-11-26T12:12:49.070Z",
+        "user": [
+            "djangoadmin"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "5",
+        "object_repr": "HYUNDAI",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 22,
+    "fields": {
+        "action_time": "2023-11-26T12:13:32.757Z",
+        "user": [
+            "djangoadmin"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "5",
+        "object_repr": "HYUNDAI",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Color\", \"Condition\", \"Designation\", \"Transmission\", \"Interior\", \"Fuel Type\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 23,
+    "fields": {
+        "action_time": "2023-11-26T12:16:43.739Z",
+        "user": [
+            "djangoadmin"
+        ],
+        "content_type": [
+            "pages",
+            "team"
+        ],
+        "object_id": "2",
+        "object_repr": "Ahmed",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 24,
+    "fields": {
+        "action_time": "2023-11-26T12:17:27.659Z",
+        "user": [
+            "djangoadmin"
+        ],
+        "content_type": [
+            "pages",
+            "team"
+        ],
+        "object_id": "2",
+        "object_repr": "Ahmed",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"First_name\", \"Last_name\", \"Designation\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 25,
+    "fields": {
+        "action_time": "2023-11-26T12:17:49.970Z",
+        "user": [
+            "djangoadmin"
+        ],
+        "content_type": [
+            "pages",
+            "team"
+        ],
+        "object_id": "3",
+        "object_repr": "Amina",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 26,
+    "fields": {
+        "action_time": "2023-11-26T12:18:08.352Z",
+        "user": [
+            "djangoadmin"
+        ],
+        "content_type": [
+            "pages",
+            "team"
+        ],
+        "object_id": "3",
+        "object_repr": "Amina",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"First_name\", \"Last_name\", \"Designation\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 27,
+    "fields": {
+        "action_time": "2023-11-26T19:53:06.438Z",
+        "user": [
+            "djangoadmin"
+        ],
+        "content_type": [
+            "socialaccount",
+            "socialaccount"
+        ],
+        "object_id": "1",
+        "object_repr": "otmane",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 28,
+    "fields": {
+        "action_time": "2023-11-26T19:59:55.285Z",
+        "user": [
+            "djangoadmin"
+        ],
+        "content_type": [
+            "socialaccount",
+            "socialapp"
+        ],
+        "object_id": "1",
+        "object_repr": "Facebook login",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 29,
+    "fields": {
+        "action_time": "2023-11-26T20:00:58.751Z",
+        "user": [
+            "djangoadmin"
+        ],
+        "content_type": [
+            "socialaccount",
+            "socialapp"
+        ],
+        "object_id": "2",
+        "object_repr": "Facebook login",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 30,
+    "fields": {
+        "action_time": "2023-11-26T20:01:32.026Z",
+        "user": [
+            "djangoadmin"
+        ],
+        "content_type": [
+            "sites",
+            "site"
+        ],
+        "object_id": "1",
+        "object_repr": "localhost:8000",
+        "action_flag": 2,
+        "change_message": "[]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 31,
+    "fields": {
+        "action_time": "2023-11-26T20:13:51.019Z",
+        "user": [
+            "djangoadmin"
+        ],
+        "content_type": [
+            "socialaccount",
+            "socialapp"
+        ],
+        "object_id": "3",
+        "object_repr": "Google Login",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 32,
+    "fields": {
+        "action_time": "2023-11-26T21:05:05.903Z",
+        "user": [
+            "djangoadmin"
+        ],
+        "content_type": [
+            "contacts",
+            "contact"
+        ],
+        "object_id": "4",
+        "object_repr": "elkastaliotmane@gmail.com",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"State\"]}}]"
+    }
+}
+]

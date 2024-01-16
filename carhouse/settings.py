@@ -27,7 +27,7 @@ SECRET_KEY = 'django-insecure-ai3)2@q(+5_g6#^_0n+0!5rn2*=dkhp@kxy+u&1o!&9740!ov2
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['192.168.1.107','127.0.0.1','localhost','192.168.56.1']
+ALLOWED_HOSTS = ['127.0.0.1','localhost','192.168.1.103']
 LOGIN_REDIRECT_URL = 'dashboard'
 
 
@@ -205,8 +205,9 @@ JAZZMIN_SETTINGS = {
     # title of the window (Will default to current_admin_site.site_title if absent or None)
     "site_title": "Library Admin",
     "site_header": "Library",
-    "site_brand": "Car House",
-    
-    
-
+    "site_brand": "CarHouse",
+    "site_logo": 'img/favicon.ico',
+    "login_logo_dark": 'img/logos/logo-v2.png',
+    "login_logo": 'img/logos/black-logo-v2.png',
+    "show_ui_builder": True
 }
